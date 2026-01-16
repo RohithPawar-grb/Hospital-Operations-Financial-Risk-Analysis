@@ -1,0 +1,801 @@
+﻿admission_id,patient_id,admission_date,discharge_date,department,admission_reason,severity,icu_required,length_of_stay_days
+1,319,2025-10-31,2025-11-24,Orthopedics,Emergency,High,No,24
+2,185,2025-09-18,2025-10-10,ER,Chronic Disease Management,High,No,22
+3,439,2025-01-11,2025-01-13,Orthopedics,Routine Check-up,Medium,Yes,2
+4,316,2025-09-19,2025-10-01,Orthopedics,Chest Pain,High,No,12
+5,99,2025-01-10,2025-01-16,General Surgery,Infection,Low,No,6
+6,62,2025-03-12,2025-03-22,Internal Medicine,Infection,Low,No,10
+7,286,2025-10-10,2025-11-04,ER,Infection,Low,No,25
+8,477,2025-12-22,2026-01-14,Cardiology,Chest Pain,Medium,Yes,23
+9,22,2025-08-13,2025-09-07,Internal Medicine,Chronic Disease Management,Low,No,25
+10,459,2025-05-27,2025-06-17,General Surgery,Infection,Critical,No,21
+11,212,2025-06-09,2025-07-02,Cardiology,Routine Check-up,Low,Yes,23
+12,126,2025-01-14,2025-02-10,Orthopedics,Infection,Low,No,27
+13,413,2025-08-11,2025-08-27,Orthopedics,Chest Pain,Medium,No,16
+14,499,2025-07-01,2025-07-15,Orthopedics,Chronic Disease Management,Low,No,14
+15,425,2025-11-30,2025-12-07,ER,Chest Pain,Low,No,7
+16,42,2025-05-12,2025-06-09,General Surgery,Routine Check-up,Low,No,28
+17,98,2025-08-24,2025-09-21,General Surgery,Chronic Disease Management,Medium,No,28
+18,449,2025-01-29,2025-02-17,ER,Chest Pain,Medium,No,19
+19,31,2025-07-13,2025-08-05,Orthopedics,Emergency,High,No,23
+20,158,2025-06-23,2025-07-10,Internal Medicine,Infection,Medium,No,17
+21,112,2025-06-20,2025-06-29,Orthopedics,Chest Pain,Medium,No,9
+22,402,2025-11-09,2025-12-05,Internal Medicine,Chronic Disease Management,Low,No,26
+23,247,2025-07-01,2025-07-14,Cardiology,Fracture,Low,No,13
+24,122,2026-01-04,2026-01-26,ER,Routine Check-up,High,No,22
+25,273,2025-05-17,2025-05-22,Cardiology,Routine Check-up,Low,No,5
+26,294,2025-07-12,2025-08-04,Orthopedics,Emergency,Low,No,23
+27,398,2025-03-04,2025-03-09,Internal Medicine,Infection,High,No,5
+28,471,2025-12-03,2025-12-13,Orthopedics,Infection,Medium,No,10
+29,473,2025-11-14,2025-12-05,General Surgery,Routine Check-up,Low,No,21
+30,207,2025-05-17,2025-06-13,Orthopedics,Chest Pain,Low,No,27
+31,110,2025-01-16,2025-01-26,General Surgery,Infection,High,No,10
+32,440,2025-01-25,2025-02-21,Cardiology,Infection,High,No,27
+33,278,2025-06-26,2025-07-03,Cardiology,Chest Pain,Medium,No,7
+34,451,2025-10-28,2025-11-23,Orthopedics,Infection,Medium,No,26
+35,56,2025-11-11,2025-11-26,Neurology,Routine Check-up,Medium,No,15
+36,375,2025-05-14,2025-05-21,Cardiology,Routine Check-up,Critical,No,7
+37,403,2026-01-07,2026-02-05,Orthopedics,Chest Pain,Critical,No,29
+38,57,2025-01-14,2025-02-10,Orthopedics,Chest Pain,Low,No,27
+39,428,2025-07-05,2025-07-20,Cardiology,Fracture,High,No,15
+40,482,2025-03-08,2025-03-11,Neurology,Routine Check-up,Low,No,3
+41,291,2025-12-10,2025-12-29,Internal Medicine,Chest Pain,Low,No,19
+42,114,2025-04-17,2025-04-27,Cardiology,Chronic Disease Management,Medium,No,10
+43,381,2025-09-23,2025-10-21,Neurology,Chest Pain,Medium,No,28
+44,385,2025-02-11,2025-03-12,General Surgery,Chronic Disease Management,High,No,29
+45,308,2025-10-11,2025-10-26,Orthopedics,Infection,Low,No,15
+46,341,2025-06-18,2025-06-21,General Surgery,Routine Check-up,Medium,No,3
+47,477,2025-06-03,2025-06-09,Orthopedics,Fracture,High,No,6
+48,198,2025-10-07,2025-10-19,Neurology,Chronic Disease Management,High,No,12
+49,421,2025-09-28,2025-10-13,Cardiology,Fracture,Low,Yes,15
+50,321,2025-05-31,2025-06-06,General Surgery,Chronic Disease Management,Low,No,6
+51,179,2025-07-07,2025-07-20,General Surgery,Routine Check-up,Medium,No,13
+52,385,2025-07-09,2025-08-07,Cardiology,Chest Pain,Low,Yes,29
+53,219,2025-07-31,2025-08-19,Orthopedics,Routine Check-up,Critical,Yes,19
+54,277,2025-05-07,2025-05-10,ER,Chronic Disease Management,High,No,3
+55,437,2025-12-09,2025-12-17,Orthopedics,Chest Pain,Low,No,8
+56,16,2025-11-18,2025-11-26,Neurology,Infection,Low,No,8
+57,492,2025-01-29,2025-02-21,ER,Chest Pain,Low,No,23
+58,379,2025-10-25,2025-11-20,General Surgery,Chronic Disease Management,High,No,26
+59,61,2025-04-06,2025-04-26,Neurology,Routine Check-up,Low,No,20
+60,54,2025-11-30,2025-12-15,Internal Medicine,Chest Pain,Medium,No,15
+61,168,2025-09-30,2025-10-04,Internal Medicine,Infection,Medium,No,4
+62,26,2025-09-20,2025-10-09,Neurology,Routine Check-up,Medium,No,19
+63,336,2025-02-22,2025-03-15,Neurology,Emergency,Low,No,21
+64,476,2025-05-05,2025-05-08,Orthopedics,Infection,Low,Yes,3
+65,65,2025-07-02,2025-07-15,ER,Emergency,High,Yes,13
+66,100,2025-07-11,2025-07-19,General Surgery,Infection,High,Yes,8
+67,74,2025-02-08,2025-03-03,Cardiology,Infection,High,No,23
+68,192,2025-06-14,2025-06-30,Internal Medicine,Routine Check-up,Low,No,16
+69,171,2025-12-18,2025-12-31,Neurology,Infection,Low,No,13
+70,273,2025-07-27,2025-07-30,Cardiology,Infection,Medium,No,3
+71,377,2025-10-02,2025-10-18,Neurology,Infection,Low,No,16
+72,187,2025-06-15,2025-06-24,Orthopedics,Routine Check-up,High,No,9
+73,23,2026-01-01,2026-01-29,Internal Medicine,Routine Check-up,Medium,No,28
+74,391,2025-07-03,2025-07-17,Cardiology,Infection,Low,Yes,14
+75,428,2025-07-18,2025-07-31,Internal Medicine,Fracture,High,No,13
+76,181,2025-04-11,2025-05-02,Neurology,Infection,Critical,No,21
+77,327,2025-12-23,2026-01-17,Cardiology,Chronic Disease Management,Low,No,25
+78,108,2025-10-11,2025-10-18,ER,Fracture,Medium,No,7
+79,335,2025-08-21,2025-09-05,Neurology,Routine Check-up,Low,No,15
+80,162,2025-08-17,2025-08-24,Orthopedics,Infection,Low,No,7
+81,302,2025-07-27,2025-08-02,Neurology,Fracture,Low,No,6
+82,493,2025-02-06,2025-02-08,Internal Medicine,Chest Pain,Medium,No,2
+83,452,2025-10-23,2025-11-01,Orthopedics,Fracture,Critical,No,9
+84,206,2025-04-22,2025-05-14,Cardiology,Emergency,Medium,No,22
+85,78,2025-07-30,2025-08-23,Cardiology,Fracture,Low,No,24
+86,16,2025-12-26,2026-01-12,Orthopedics,Chest Pain,Medium,No,17
+87,327,2025-05-15,2025-05-20,Internal Medicine,Infection,Low,No,5
+88,96,2025-10-29,2025-11-10,Neurology,Fracture,High,No,12
+89,147,2025-08-19,2025-08-20,Cardiology,Chest Pain,Medium,No,1
+90,2,2025-03-05,2025-03-15,Cardiology,Fracture,Low,No,10
+91,10,2025-04-01,2025-04-12,Orthopedics,Infection,Low,No,11
+92,434,2025-04-15,2025-05-01,ER,Chronic Disease Management,High,Yes,16
+93,125,2025-05-13,2025-05-27,Orthopedics,Infection,Low,Yes,14
+94,81,2025-05-09,2025-05-17,ER,Infection,High,No,8
+95,485,2025-07-30,2025-08-23,Neurology,Emergency,Low,No,24
+96,140,2025-11-10,2025-11-27,Cardiology,Infection,Low,No,17
+97,326,2026-01-03,2026-01-28,Internal Medicine,Fracture,Medium,No,25
+98,150,2025-06-26,2025-07-14,Neurology,Fracture,High,Yes,18
+99,288,2025-11-12,2025-11-24,General Surgery,Infection,High,No,12
+100,361,2025-03-10,2025-04-04,ER,Routine Check-up,Low,No,25
+101,340,2025-06-06,2025-06-23,Cardiology,Fracture,Low,No,17
+102,129,2025-12-14,2026-01-11,Cardiology,Chronic Disease Management,Low,No,28
+103,438,2025-03-12,2025-04-07,General Surgery,Chest Pain,Medium,No,26
+104,239,2026-01-04,2026-01-18,Orthopedics,Infection,Medium,Yes,14
+105,58,2025-12-20,2026-01-05,Cardiology,Routine Check-up,High,No,16
+106,198,2025-06-25,2025-07-09,Cardiology,Fracture,High,No,14
+107,211,2025-11-11,2025-11-20,Cardiology,Chronic Disease Management,Low,No,9
+108,402,2025-05-12,2025-05-16,Internal Medicine,Fracture,Medium,No,4
+109,390,2025-08-16,2025-09-10,Cardiology,Chronic Disease Management,High,No,25
+110,45,2025-04-11,2025-05-04,Neurology,Chest Pain,High,No,23
+111,97,2025-05-05,2025-05-16,General Surgery,Routine Check-up,Low,No,11
+112,279,2025-12-26,2026-01-01,Orthopedics,Chest Pain,Low,No,6
+113,23,2025-12-27,2026-01-11,Cardiology,Routine Check-up,Medium,No,15
+114,410,2025-11-26,2025-12-01,Internal Medicine,Infection,Low,No,5
+115,461,2025-12-21,2026-01-01,Cardiology,Chronic Disease Management,Low,No,11
+116,391,2025-11-07,2025-12-02,Internal Medicine,Fracture,Low,No,25
+117,335,2025-05-15,2025-06-02,Internal Medicine,Emergency,Medium,No,18
+118,44,2025-02-06,2025-02-19,Orthopedics,Chest Pain,Low,Yes,13
+119,27,2025-10-01,2025-10-12,Neurology,Chest Pain,Low,Yes,11
+120,282,2025-07-30,2025-08-13,Neurology,Infection,Low,No,14
+121,97,2025-09-09,2025-10-07,Orthopedics,Chest Pain,High,No,28
+122,463,2025-11-26,2025-12-14,Internal Medicine,Chest Pain,High,No,18
+123,36,2025-01-14,2025-02-10,Internal Medicine,Emergency,Medium,No,27
+124,109,2025-02-26,2025-03-26,Orthopedics,Emergency,Medium,Yes,28
+125,55,2025-08-17,2025-09-11,General Surgery,Infection,Critical,No,25
+126,192,2025-02-16,2025-03-16,ER,Emergency,Low,No,28
+127,219,2025-01-11,2025-01-30,ER,Infection,Low,No,19
+128,185,2025-11-20,2025-12-14,Neurology,Fracture,Low,Yes,24
+129,69,2025-11-05,2025-12-02,Neurology,Chronic Disease Management,Low,No,27
+130,317,2025-01-19,2025-02-03,Orthopedics,Chronic Disease Management,Low,No,15
+131,130,2025-03-27,2025-04-05,ER,Emergency,High,No,9
+132,55,2025-07-29,2025-08-06,Cardiology,Fracture,Medium,No,8
+133,378,2025-08-21,2025-09-10,Neurology,Chronic Disease Management,Medium,No,20
+134,97,2025-03-01,2025-03-29,Orthopedics,Chest Pain,High,No,28
+135,336,2025-09-03,2025-09-04,Orthopedics,Chest Pain,Low,No,1
+136,87,2025-05-15,2025-05-19,Orthopedics,Chest Pain,Low,Yes,4
+137,294,2025-02-19,2025-03-05,ER,Emergency,Medium,No,14
+138,119,2025-03-19,2025-04-13,Cardiology,Routine Check-up,Medium,No,25
+139,208,2025-07-06,2025-07-08,Neurology,Routine Check-up,Low,Yes,2
+140,334,2025-06-15,2025-07-01,Cardiology,Infection,Medium,Yes,16
+141,413,2025-06-03,2025-06-06,Cardiology,Fracture,Medium,No,3
+142,154,2025-07-03,2025-07-29,Orthopedics,Chest Pain,Medium,No,26
+143,35,2025-01-28,2025-02-05,Neurology,Fracture,Medium,No,8
+144,79,2025-03-31,2025-04-06,Orthopedics,Infection,Low,No,6
+145,67,2025-01-22,2025-02-07,Orthopedics,Routine Check-up,Low,Yes,16
+146,343,2025-05-17,2025-06-10,Cardiology,Infection,Medium,Yes,24
+147,413,2025-06-29,2025-07-15,Orthopedics,Chest Pain,Low,No,16
+148,34,2025-03-28,2025-04-04,ER,Chest Pain,High,Yes,7
+149,97,2025-04-25,2025-05-08,ER,Chest Pain,Medium,No,13
+150,169,2025-05-08,2025-05-21,Orthopedics,Infection,Low,No,13
+151,169,2025-08-26,2025-08-31,Neurology,Emergency,High,No,5
+152,151,2025-04-04,2025-04-29,ER,Chronic Disease Management,Medium,No,25
+153,71,2025-04-13,2025-05-03,Cardiology,Routine Check-up,Low,Yes,20
+154,3,2025-07-22,2025-08-13,Internal Medicine,Infection,High,No,22
+155,314,2025-08-03,2025-08-21,ER,Infection,High,No,18
+156,32,2025-06-22,2025-07-07,Cardiology,Chest Pain,Medium,No,15
+157,287,2025-11-25,2025-12-13,Cardiology,Routine Check-up,Low,No,18
+158,82,2025-04-20,2025-04-22,ER,Routine Check-up,Medium,No,2
+159,43,2025-10-30,2025-11-09,Neurology,Chest Pain,High,No,10
+160,391,2025-01-10,2025-02-02,Cardiology,Infection,Low,No,23
+161,105,2025-09-28,2025-10-11,Orthopedics,Infection,Low,No,13
+162,1,2025-09-06,2025-09-24,Orthopedics,Chronic Disease Management,High,No,18
+163,61,2025-03-02,2025-03-17,General Surgery,Emergency,Low,No,15
+164,270,2025-03-29,2025-04-10,General Surgery,Chronic Disease Management,High,No,12
+165,180,2025-05-24,2025-06-08,ER,Infection,Medium,No,15
+166,224,2025-08-16,2025-08-29,Orthopedics,Chest Pain,Medium,Yes,13
+167,6,2025-06-26,2025-07-14,Neurology,Chest Pain,Low,No,18
+168,103,2025-06-02,2025-06-17,Neurology,Chest Pain,High,No,15
+169,10,2025-11-10,2025-12-05,Orthopedics,Chest Pain,Low,No,25
+170,71,2025-10-03,2025-10-26,Cardiology,Chronic Disease Management,Medium,No,23
+171,90,2025-07-22,2025-08-02,ER,Chronic Disease Management,Medium,No,11
+172,226,2025-07-20,2025-08-08,Internal Medicine,Chest Pain,Medium,No,19
+173,158,2025-08-11,2025-08-14,Neurology,Routine Check-up,Critical,No,3
+174,228,2025-01-24,2025-01-31,General Surgery,Chest Pain,Medium,No,7
+175,405,2025-09-09,2025-09-30,Cardiology,Fracture,Low,Yes,21
+176,126,2025-09-23,2025-10-19,Neurology,Fracture,Critical,No,26
+177,444,2026-01-05,2026-01-19,General Surgery,Infection,Medium,No,14
+178,209,2025-10-08,2025-10-22,Neurology,Fracture,Low,No,14
+179,97,2026-01-03,2026-01-25,ER,Infection,Low,No,22
+180,74,2025-03-27,2025-04-09,General Surgery,Infection,High,No,13
+181,115,2025-09-25,2025-10-07,Orthopedics,Emergency,Low,No,12
+182,191,2025-08-16,2025-09-09,Internal Medicine,Chest Pain,Medium,Yes,24
+183,495,2025-04-13,2025-04-22,Cardiology,Chest Pain,Medium,No,9
+184,170,2025-10-05,2025-10-06,Orthopedics,Chest Pain,Low,No,1
+185,307,2025-05-25,2025-06-13,Orthopedics,Chronic Disease Management,Medium,No,19
+186,448,2025-06-21,2025-07-02,Orthopedics,Chest Pain,Low,No,11
+187,204,2025-06-11,2025-07-04,Internal Medicine,Routine Check-up,Medium,No,23
+188,56,2026-01-03,2026-01-25,Neurology,Infection,Medium,No,22
+189,208,2025-09-19,2025-10-12,Internal Medicine,Infection,Medium,Yes,23
+190,41,2025-02-20,2025-03-16,Neurology,Chronic Disease Management,Medium,No,24
+191,32,2025-09-25,2025-10-17,Orthopedics,Chest Pain,High,No,22
+192,15,2025-08-23,2025-09-11,Internal Medicine,Chest Pain,High,No,19
+193,62,2025-03-16,2025-04-03,Cardiology,Fracture,Low,No,18
+194,155,2025-10-05,2025-10-17,Cardiology,Chronic Disease Management,Low,No,12
+195,284,2025-02-06,2025-03-01,Neurology,Fracture,Medium,Yes,23
+196,209,2025-03-18,2025-04-15,Orthopedics,Chest Pain,High,No,28
+197,320,2025-06-09,2025-07-07,Cardiology,Emergency,High,Yes,28
+198,494,2025-03-24,2025-04-21,General Surgery,Chest Pain,High,No,28
+199,187,2025-12-18,2026-01-14,Neurology,Routine Check-up,Low,No,27
+200,498,2025-06-30,2025-07-01,Orthopedics,Routine Check-up,Medium,No,1
+201,442,2025-08-12,2025-08-31,ER,Fracture,Medium,No,19
+202,130,2025-05-07,2025-06-04,Neurology,Chest Pain,Low,Yes,28
+203,127,2025-04-17,2025-05-14,Internal Medicine,Chest Pain,Low,No,27
+204,292,2025-05-03,2025-05-23,Cardiology,Chronic Disease Management,High,No,20
+205,114,2026-01-06,2026-02-04,Neurology,Chronic Disease Management,Low,No,29
+206,199,2025-02-27,2025-03-16,Internal Medicine,Routine Check-up,Low,No,17
+207,13,2025-10-25,2025-10-30,Neurology,Emergency,Low,No,5
+208,271,2025-10-14,2025-11-09,General Surgery,Chronic Disease Management,High,No,26
+209,89,2025-04-14,2025-04-17,Orthopedics,Chest Pain,Medium,Yes,3
+210,215,2025-05-29,2025-05-31,Cardiology,Fracture,Medium,No,2
+211,444,2025-12-22,2025-12-25,Neurology,Routine Check-up,High,No,3
+212,278,2025-09-18,2025-09-26,Orthopedics,Fracture,Low,No,8
+213,447,2025-05-03,2025-05-19,Internal Medicine,Chest Pain,Medium,No,16
+214,474,2025-05-21,2025-05-27,Cardiology,Chronic Disease Management,Low,Yes,6
+215,481,2025-02-14,2025-02-27,ER,Infection,Low,Yes,13
+216,203,2025-04-05,2025-04-28,ER,Emergency,High,No,23
+217,74,2025-06-21,2025-07-19,Cardiology,Chronic Disease Management,High,No,28
+218,25,2025-10-18,2025-11-09,Orthopedics,Chest Pain,Low,Yes,22
+219,101,2025-09-06,2025-09-28,Internal Medicine,Emergency,Low,Yes,22
+220,176,2025-07-18,2025-08-03,ER,Fracture,Medium,No,16
+221,427,2025-11-01,2025-11-29,Orthopedics,Fracture,Low,No,28
+222,117,2025-11-23,2025-12-09,Orthopedics,Infection,Low,No,16
+223,166,2025-04-28,2025-05-01,Neurology,Chest Pain,Low,Yes,3
+224,41,2025-06-08,2025-07-06,General Surgery,Infection,Low,No,28
+225,429,2025-12-10,2025-12-23,Orthopedics,Chest Pain,High,Yes,13
+226,344,2025-04-03,2025-04-17,General Surgery,Infection,Low,Yes,14
+227,424,2025-05-17,2025-05-25,Cardiology,Infection,Low,No,8
+228,366,2025-05-06,2025-05-18,Cardiology,Routine Check-up,Medium,No,12
+229,120,2025-12-15,2026-01-07,Orthopedics,Routine Check-up,High,No,23
+230,97,2025-10-27,2025-11-19,Orthopedics,Chest Pain,Low,No,23
+231,145,2025-06-17,2025-07-09,Orthopedics,Infection,Low,No,22
+232,216,2025-03-01,2025-03-22,Neurology,Infection,Low,No,21
+233,229,2025-10-07,2025-11-02,Orthopedics,Chest Pain,Medium,No,26
+234,313,2025-09-04,2025-09-12,Cardiology,Routine Check-up,Medium,No,8
+235,130,2025-12-15,2026-01-05,Orthopedics,Chronic Disease Management,High,No,21
+236,352,2025-02-09,2025-03-06,ER,Chest Pain,Critical,No,25
+237,377,2025-01-19,2025-01-28,Orthopedics,Infection,High,No,9
+238,318,2025-09-15,2025-09-16,Orthopedics,Chest Pain,Medium,No,1
+239,472,2025-11-22,2025-11-28,Neurology,Chronic Disease Management,Medium,No,6
+240,137,2025-05-28,2025-06-20,ER,Chest Pain,Low,No,23
+241,324,2025-04-18,2025-05-07,Cardiology,Emergency,Critical,No,19
+242,337,2025-10-02,2025-10-25,General Surgery,Routine Check-up,Low,No,23
+243,273,2025-12-29,2026-01-09,General Surgery,Infection,Low,Yes,11
+244,117,2025-10-16,2025-10-27,General Surgery,Chronic Disease Management,Medium,No,11
+245,306,2025-06-09,2025-07-02,Cardiology,Emergency,Low,No,23
+246,368,2025-07-20,2025-08-02,General Surgery,Chronic Disease Management,Medium,No,13
+247,94,2025-06-14,2025-06-25,Cardiology,Chest Pain,Medium,No,11
+248,168,2025-11-06,2025-11-24,Neurology,Infection,Medium,No,18
+249,442,2025-04-26,2025-05-19,General Surgery,Routine Check-up,High,No,23
+250,203,2025-02-11,2025-02-26,Cardiology,Chronic Disease Management,Low,No,15
+251,341,2025-09-10,2025-09-11,Internal Medicine,Chronic Disease Management,Medium,No,1
+252,149,2025-03-17,2025-04-07,Cardiology,Routine Check-up,Medium,No,21
+253,402,2025-11-16,2025-12-11,Internal Medicine,Routine Check-up,Medium,No,25
+254,183,2025-02-12,2025-02-19,Neurology,Emergency,High,No,7
+255,413,2025-04-12,2025-05-05,Cardiology,Chest Pain,Low,No,23
+256,152,2025-05-13,2025-06-09,Cardiology,Infection,Medium,Yes,27
+257,74,2025-05-11,2025-05-24,ER,Chronic Disease Management,Low,No,13
+258,365,2025-12-22,2026-01-03,Cardiology,Routine Check-up,High,No,12
+259,401,2025-07-06,2025-07-24,Cardiology,Chronic Disease Management,Low,No,18
+260,274,2025-01-28,2025-02-21,Orthopedics,Chest Pain,Medium,No,24
+261,42,2025-08-18,2025-09-06,General Surgery,Routine Check-up,Low,No,19
+262,496,2025-04-22,2025-05-07,Neurology,Chronic Disease Management,Low,Yes,15
+263,212,2025-01-10,2025-01-18,Cardiology,Chest Pain,Medium,Yes,8
+264,101,2025-05-15,2025-06-03,Orthopedics,Infection,High,No,19
+265,45,2025-03-11,2025-03-21,Cardiology,Chest Pain,Medium,No,10
+266,82,2025-03-17,2025-03-24,Cardiology,Fracture,High,No,7
+267,17,2025-10-25,2025-11-12,Orthopedics,Chest Pain,Medium,No,18
+268,73,2025-07-05,2025-07-21,General Surgery,Infection,Medium,No,16
+269,14,2025-02-10,2025-03-02,Cardiology,Infection,Low,No,20
+270,433,2025-05-08,2025-06-04,Orthopedics,Chronic Disease Management,High,No,27
+271,157,2025-09-01,2025-09-07,Orthopedics,Chronic Disease Management,Low,No,6
+272,223,2025-02-28,2025-03-27,ER,Routine Check-up,High,Yes,27
+273,132,2025-04-01,2025-04-10,ER,Fracture,High,No,9
+274,338,2025-10-22,2025-11-12,Internal Medicine,Chest Pain,High,Yes,21
+275,404,2025-10-29,2025-11-11,Cardiology,Routine Check-up,Medium,No,13
+276,376,2025-04-21,2025-05-16,Cardiology,Chest Pain,Medium,Yes,25
+277,376,2025-07-02,2025-07-23,Orthopedics,Emergency,High,No,21
+278,47,2025-11-07,2025-12-03,Orthopedics,Routine Check-up,Low,No,26
+279,107,2025-12-28,2026-01-05,Neurology,Infection,Medium,No,8
+280,108,2025-08-21,2025-09-06,Internal Medicine,Emergency,Low,No,16
+281,265,2025-04-30,2025-05-13,Internal Medicine,Chest Pain,Medium,No,13
+282,205,2025-11-27,2025-12-10,Internal Medicine,Fracture,Low,No,13
+283,79,2025-12-23,2026-01-09,Orthopedics,Chronic Disease Management,Low,Yes,17
+284,155,2025-11-07,2025-11-30,General Surgery,Infection,Low,No,23
+285,271,2025-05-01,2025-05-21,Orthopedics,Emergency,Medium,Yes,20
+286,476,2025-03-23,2025-03-28,Cardiology,Chest Pain,Medium,No,5
+287,485,2026-01-01,2026-01-23,General Surgery,Infection,Low,No,22
+288,247,2025-02-18,2025-03-11,Cardiology,Chronic Disease Management,Medium,No,21
+289,19,2025-10-11,2025-11-08,Orthopedics,Chronic Disease Management,Low,No,28
+290,346,2025-06-15,2025-07-02,Orthopedics,Fracture,Medium,No,17
+291,436,2025-03-23,2025-04-20,General Surgery,Infection,Medium,No,28
+292,26,2025-03-31,2025-04-09,Internal Medicine,Routine Check-up,Medium,No,9
+293,217,2025-09-13,2025-09-15,Orthopedics,Chest Pain,Medium,Yes,2
+294,154,2025-01-25,2025-02-19,Internal Medicine,Routine Check-up,Low,Yes,25
+295,154,2025-07-18,2025-08-13,Orthopedics,Chronic Disease Management,High,No,26
+296,174,2025-10-25,2025-11-12,Orthopedics,Routine Check-up,Medium,No,18
+297,92,2025-09-30,2025-10-09,General Surgery,Chronic Disease Management,Medium,No,9
+298,433,2025-08-11,2025-08-17,General Surgery,Fracture,Medium,Yes,6
+299,338,2025-04-14,2025-04-25,ER,Chronic Disease Management,Low,No,11
+300,480,2025-10-30,2025-11-24,Cardiology,Routine Check-up,Medium,No,25
+301,181,2025-07-13,2025-08-11,General Surgery,Infection,Medium,No,29
+302,131,2025-09-07,2025-09-13,General Surgery,Emergency,Low,No,6
+303,450,2025-03-22,2025-03-28,ER,Infection,Low,No,6
+304,481,2025-03-30,2025-04-12,Cardiology,Chest Pain,Low,No,13
+305,298,2025-06-28,2025-07-09,Internal Medicine,Infection,High,No,11
+306,275,2025-05-26,2025-06-09,Neurology,Emergency,Medium,No,14
+307,273,2025-04-09,2025-04-11,Orthopedics,Fracture,Low,No,2
+308,492,2025-09-25,2025-10-03,Neurology,Routine Check-up,Low,No,8
+309,417,2025-12-19,2025-12-22,Orthopedics,Routine Check-up,Medium,No,3
+310,76,2025-11-06,2025-11-29,Neurology,Infection,High,No,23
+311,177,2025-07-28,2025-08-18,Internal Medicine,Chest Pain,Low,No,21
+312,184,2025-12-13,2025-12-16,Neurology,Chronic Disease Management,Low,No,3
+313,319,2025-03-04,2025-03-05,General Surgery,Fracture,High,No,1
+314,131,2025-03-30,2025-04-23,Neurology,Routine Check-up,Low,No,24
+315,363,2025-08-14,2025-09-02,Cardiology,Infection,Low,No,19
+316,49,2025-04-03,2025-04-21,Cardiology,Infection,Critical,No,18
+317,55,2025-02-17,2025-03-06,Neurology,Routine Check-up,Medium,No,17
+318,154,2025-02-24,2025-03-16,Orthopedics,Infection,Low,Yes,20
+319,355,2025-07-29,2025-08-27,Cardiology,Infection,Low,No,29
+320,200,2025-05-30,2025-06-23,Neurology,Infection,Low,Yes,24
+321,308,2025-04-12,2025-04-25,Orthopedics,Infection,Low,No,13
+322,356,2025-08-16,2025-08-19,Orthopedics,Infection,High,No,3
+323,373,2025-01-18,2025-01-19,Neurology,Routine Check-up,Medium,No,1
+324,118,2025-12-10,2025-12-14,Cardiology,Infection,Medium,No,4
+325,263,2025-11-25,2025-12-20,ER,Infection,High,No,25
+326,46,2025-04-09,2025-04-22,Internal Medicine,Chronic Disease Management,Medium,No,13
+327,302,2025-12-06,2025-12-23,General Surgery,Fracture,Low,Yes,17
+328,356,2025-08-21,2025-09-18,Cardiology,Fracture,Medium,Yes,28
+329,400,2025-02-25,2025-03-08,Internal Medicine,Emergency,High,No,11
+330,408,2025-06-02,2025-06-04,Internal Medicine,Chronic Disease Management,High,No,2
+331,189,2025-01-18,2025-02-12,Internal Medicine,Chronic Disease Management,Low,Yes,25
+332,310,2025-12-18,2026-01-03,Cardiology,Chronic Disease Management,Medium,Yes,16
+333,318,2025-07-13,2025-07-15,General Surgery,Chest Pain,Medium,No,2
+334,129,2025-02-14,2025-03-15,Internal Medicine,Chronic Disease Management,High,No,29
+335,49,2025-05-23,2025-06-11,Neurology,Infection,Low,No,19
+336,25,2025-12-02,2025-12-25,General Surgery,Infection,Medium,No,23
+337,266,2025-10-31,2025-11-19,Neurology,Infection,High,Yes,19
+338,118,2025-09-15,2025-10-10,Neurology,Chest Pain,Medium,No,25
+339,464,2025-05-15,2025-05-31,Cardiology,Chest Pain,Medium,No,16
+340,144,2025-02-08,2025-03-02,General Surgery,Emergency,Low,No,22
+341,442,2025-08-14,2025-09-02,Cardiology,Infection,Low,No,19
+342,200,2025-12-31,2026-01-09,Orthopedics,Infection,Low,No,9
+343,157,2025-03-27,2025-03-28,Orthopedics,Chest Pain,High,No,1
+344,487,2025-11-20,2025-11-30,Neurology,Chest Pain,Low,No,10
+345,348,2025-02-05,2025-02-24,Cardiology,Chronic Disease Management,Medium,No,19
+346,134,2026-01-04,2026-01-05,General Surgery,Infection,Medium,No,1
+347,400,2025-01-31,2025-02-02,Internal Medicine,Infection,Low,No,2
+348,148,2025-09-05,2025-09-21,Cardiology,Fracture,Medium,No,16
+349,336,2025-10-26,2025-11-07,Cardiology,Chronic Disease Management,Medium,Yes,12
+350,71,2025-07-28,2025-08-05,Cardiology,Chest Pain,High,No,8
+351,233,2025-04-06,2025-04-29,Internal Medicine,Chest Pain,Medium,No,23
+352,334,2025-02-19,2025-03-09,Neurology,Infection,Medium,No,18
+353,299,2025-03-15,2025-03-17,Neurology,Fracture,Low,No,2
+354,154,2025-03-25,2025-04-19,Cardiology,Fracture,High,No,25
+355,90,2025-10-24,2025-11-22,General Surgery,Chronic Disease Management,Low,No,29
+356,334,2025-03-17,2025-03-30,Internal Medicine,Chronic Disease Management,High,No,13
+357,199,2025-08-25,2025-08-31,Internal Medicine,Routine Check-up,Low,No,6
+358,161,2025-09-25,2025-10-16,General Surgery,Infection,High,No,21
+359,26,2025-10-06,2025-11-01,Cardiology,Chest Pain,Medium,Yes,26
+360,121,2025-08-27,2025-09-02,Cardiology,Fracture,High,No,6
+361,301,2025-11-02,2025-11-11,Cardiology,Emergency,Low,No,9
+362,212,2025-08-15,2025-08-31,Orthopedics,Chronic Disease Management,Medium,No,16
+363,63,2025-08-03,2025-08-14,Cardiology,Chronic Disease Management,Medium,No,11
+364,451,2025-07-30,2025-08-06,Orthopedics,Chest Pain,High,No,7
+365,436,2025-02-02,2025-02-12,Orthopedics,Infection,Low,Yes,10
+366,68,2025-07-04,2025-07-14,ER,Chest Pain,Critical,No,10
+367,253,2025-02-04,2025-03-01,General Surgery,Chronic Disease Management,High,Yes,25
+368,410,2025-10-06,2025-10-26,Internal Medicine,Emergency,Low,No,20
+369,459,2025-07-12,2025-07-30,General Surgery,Emergency,High,No,18
+370,2,2025-03-27,2025-04-24,Cardiology,Infection,Medium,No,28
+371,398,2025-02-21,2025-03-17,General Surgery,Infection,Medium,No,24
+372,108,2025-07-06,2025-07-26,Orthopedics,Emergency,Low,No,20
+373,286,2025-08-24,2025-09-22,General Surgery,Chronic Disease Management,Medium,Yes,29
+374,49,2025-09-01,2025-09-10,Orthopedics,Chest Pain,Medium,No,9
+375,140,2025-06-29,2025-07-14,ER,Infection,Medium,No,15
+376,218,2025-02-27,2025-03-03,Orthopedics,Fracture,Medium,Yes,4
+377,44,2025-04-11,2025-04-19,Orthopedics,Infection,Medium,No,8
+378,417,2025-01-22,2025-01-31,ER,Infection,Medium,No,9
+379,269,2025-08-18,2025-08-31,Cardiology,Chronic Disease Management,Low,Yes,13
+380,78,2025-12-24,2026-01-02,General Surgery,Infection,High,No,9
+381,216,2025-03-13,2025-04-08,General Surgery,Chest Pain,Medium,Yes,26
+382,382,2025-05-09,2025-05-13,Internal Medicine,Infection,Low,No,4
+383,98,2025-09-24,2025-10-11,ER,Routine Check-up,Low,No,17
+384,236,2025-10-13,2025-10-29,ER,Chronic Disease Management,Medium,No,16
+385,282,2025-09-02,2025-09-17,Cardiology,Fracture,High,No,15
+386,149,2025-02-02,2025-02-05,Internal Medicine,Emergency,Low,No,3
+387,412,2026-01-05,2026-01-30,General Surgery,Emergency,Medium,No,25
+388,304,2025-02-16,2025-03-08,General Surgery,Fracture,Low,No,20
+389,484,2025-03-09,2025-03-14,Cardiology,Chest Pain,Medium,No,5
+390,424,2025-10-06,2025-10-29,General Surgery,Chronic Disease Management,Critical,No,23
+391,66,2025-06-14,2025-06-19,ER,Routine Check-up,High,No,5
+392,234,2025-05-29,2025-06-18,ER,Emergency,Low,No,20
+393,457,2025-01-26,2025-02-10,Orthopedics,Routine Check-up,Medium,No,15
+394,87,2025-02-22,2025-03-12,Cardiology,Chronic Disease Management,Low,No,18
+395,79,2025-11-23,2025-12-08,Orthopedics,Infection,Medium,No,15
+396,205,2025-07-12,2025-07-14,Internal Medicine,Chest Pain,High,No,2
+397,279,2025-09-25,2025-10-24,General Surgery,Fracture,High,No,29
+398,337,2025-06-24,2025-07-07,Neurology,Infection,Low,No,13
+399,254,2025-09-25,2025-09-29,Cardiology,Chronic Disease Management,High,No,4
+400,304,2025-04-04,2025-04-14,Orthopedics,Chronic Disease Management,Medium,No,10
+401,380,2025-04-24,2025-05-07,Neurology,Chronic Disease Management,Low,No,13
+402,130,2025-09-23,2025-10-03,ER,Fracture,Medium,No,10
+403,84,2025-12-21,2026-01-19,General Surgery,Chronic Disease Management,Medium,No,29
+404,276,2025-03-19,2025-03-28,Orthopedics,Chest Pain,Medium,No,9
+405,187,2025-03-09,2025-03-17,Neurology,Infection,Medium,No,8
+406,46,2025-07-22,2025-07-25,Cardiology,Routine Check-up,Medium,No,3
+407,387,2025-02-12,2025-02-28,ER,Chronic Disease Management,Low,No,16
+408,183,2025-06-28,2025-07-12,Orthopedics,Emergency,High,Yes,14
+409,268,2025-12-28,2026-01-06,Neurology,Fracture,Medium,No,9
+410,296,2025-06-28,2025-07-19,Orthopedics,Infection,Low,No,21
+411,322,2025-04-01,2025-04-12,General Surgery,Fracture,High,No,11
+412,100,2025-07-11,2025-07-14,General Surgery,Infection,High,No,3
+413,78,2025-03-10,2025-03-15,General Surgery,Routine Check-up,High,Yes,5
+414,272,2025-08-18,2025-09-16,Orthopedics,Chronic Disease Management,Low,No,29
+415,339,2025-02-27,2025-03-09,Orthopedics,Routine Check-up,Low,No,10
+416,162,2025-07-11,2025-07-24,Cardiology,Fracture,Medium,Yes,13
+417,44,2025-12-10,2025-12-14,General Surgery,Routine Check-up,Low,No,4
+418,238,2025-10-17,2025-11-10,Cardiology,Chest Pain,High,No,24
+419,134,2025-07-27,2025-08-09,Neurology,Routine Check-up,Low,No,13
+420,461,2025-03-31,2025-04-12,Internal Medicine,Fracture,Low,No,12
+421,192,2025-04-03,2025-04-08,Internal Medicine,Fracture,Medium,No,5
+422,356,2025-10-05,2025-10-15,Orthopedics,Infection,Low,No,10
+423,278,2025-04-18,2025-05-16,Neurology,Emergency,High,Yes,28
+424,18,2025-03-17,2025-04-10,Cardiology,Chest Pain,Medium,No,24
+425,12,2025-03-19,2025-03-28,General Surgery,Infection,Low,No,9
+426,180,2025-05-29,2025-06-18,Internal Medicine,Routine Check-up,Low,No,20
+427,123,2025-02-10,2025-02-17,Cardiology,Infection,Medium,No,7
+428,246,2025-01-13,2025-01-15,Orthopedics,Chest Pain,Low,No,2
+429,222,2025-11-28,2025-12-20,Internal Medicine,Infection,Medium,No,22
+430,373,2025-03-12,2025-04-05,Internal Medicine,Infection,Medium,No,24
+431,51,2025-05-08,2025-06-05,Cardiology,Emergency,Medium,No,28
+432,488,2025-06-15,2025-07-08,Neurology,Routine Check-up,High,No,23
+433,71,2025-05-17,2025-05-24,Cardiology,Infection,High,No,7
+434,480,2025-12-18,2025-12-26,Cardiology,Emergency,High,No,8
+435,48,2025-07-08,2025-07-15,ER,Infection,Low,No,7
+436,19,2025-05-12,2025-06-02,Internal Medicine,Chest Pain,Low,No,21
+437,262,2025-01-11,2025-02-03,Internal Medicine,Fracture,Low,No,23
+438,84,2025-04-01,2025-04-30,Cardiology,Infection,High,No,29
+439,155,2025-11-29,2025-12-13,Internal Medicine,Chest Pain,Critical,No,14
+440,53,2025-02-07,2025-03-05,Orthopedics,Emergency,High,No,26
+441,107,2025-07-31,2025-08-19,Orthopedics,Routine Check-up,Low,No,19
+442,357,2025-08-02,2025-08-07,Neurology,Fracture,High,No,5
+443,304,2025-10-12,2025-11-04,Cardiology,Chronic Disease Management,Medium,No,23
+444,135,2025-02-21,2025-03-18,Internal Medicine,Chronic Disease Management,Low,No,25
+445,443,2025-12-28,2026-01-15,Neurology,Emergency,Medium,No,18
+446,69,2025-10-28,2025-11-17,Cardiology,Routine Check-up,Low,No,20
+447,11,2025-10-25,2025-11-06,Cardiology,Infection,Medium,Yes,12
+448,143,2025-01-28,2025-02-20,Cardiology,Routine Check-up,Low,No,23
+449,192,2025-06-22,2025-07-09,Cardiology,Chronic Disease Management,Medium,Yes,17
+450,387,2025-12-30,2026-01-12,Neurology,Chronic Disease Management,Medium,No,13
+451,378,2025-01-22,2025-01-24,Internal Medicine,Chest Pain,High,No,2
+452,69,2025-05-28,2025-06-22,Cardiology,Chest Pain,Medium,No,25
+453,23,2025-07-17,2025-07-30,Cardiology,Infection,Medium,No,13
+454,181,2025-04-08,2025-05-04,Neurology,Fracture,High,No,26
+455,293,2025-12-01,2025-12-08,Internal Medicine,Chest Pain,High,No,7
+456,9,2025-11-10,2025-12-08,Orthopedics,Chronic Disease Management,Low,Yes,28
+457,271,2025-11-04,2025-11-14,Orthopedics,Chest Pain,Medium,No,10
+458,387,2025-02-22,2025-03-17,Neurology,Chronic Disease Management,Low,No,23
+459,93,2025-09-07,2025-09-13,Orthopedics,Infection,Low,Yes,6
+460,454,2025-07-29,2025-08-01,Cardiology,Emergency,Medium,No,3
+461,17,2025-08-03,2025-08-29,General Surgery,Infection,High,Yes,26
+462,154,2025-11-13,2025-11-16,General Surgery,Chest Pain,Low,No,3
+463,405,2025-10-23,2025-11-10,Neurology,Chronic Disease Management,High,Yes,18
+464,328,2025-06-29,2025-07-10,General Surgery,Routine Check-up,High,Yes,11
+465,149,2025-03-30,2025-04-21,General Surgery,Emergency,High,No,22
+466,377,2025-12-25,2026-01-14,Cardiology,Infection,Low,No,20
+467,267,2025-12-28,2026-01-02,Orthopedics,Fracture,High,No,5
+468,422,2025-09-30,2025-10-19,Cardiology,Emergency,Low,No,19
+469,328,2025-08-06,2025-08-28,Cardiology,Chest Pain,Medium,No,22
+470,106,2025-02-03,2025-03-02,General Surgery,Chronic Disease Management,Low,No,27
+471,472,2025-09-06,2025-10-04,Internal Medicine,Infection,Low,No,28
+472,381,2025-01-15,2025-02-03,ER,Chest Pain,Medium,No,19
+473,35,2025-04-04,2025-04-19,General Surgery,Fracture,Medium,No,15
+474,119,2025-09-21,2025-10-07,Cardiology,Fracture,Low,No,16
+475,14,2025-02-09,2025-03-05,Cardiology,Chronic Disease Management,Low,No,24
+476,14,2025-01-17,2025-01-26,Internal Medicine,Emergency,Medium,No,9
+477,266,2025-08-16,2025-08-20,Neurology,Fracture,Low,No,4
+478,140,2025-06-07,2025-06-22,General Surgery,Routine Check-up,High,No,15
+479,294,2025-07-31,2025-08-25,Internal Medicine,Chest Pain,Low,Yes,25
+480,364,2025-09-03,2025-09-15,General Surgery,Infection,Low,No,12
+481,119,2025-03-01,2025-03-24,Internal Medicine,Chest Pain,Low,No,23
+482,238,2025-02-11,2025-02-14,Cardiology,Emergency,Medium,No,3
+483,34,2025-08-12,2025-09-04,General Surgery,Routine Check-up,Low,No,23
+484,169,2025-12-04,2025-12-18,Internal Medicine,Chronic Disease Management,Low,No,14
+485,10,2025-07-20,2025-08-06,Orthopedics,Routine Check-up,Critical,No,17
+486,122,2025-12-18,2026-01-06,General Surgery,Chronic Disease Management,Medium,No,19
+487,401,2025-06-17,2025-06-23,Orthopedics,Emergency,Low,No,6
+488,145,2025-09-04,2025-09-08,ER,Chronic Disease Management,Medium,No,4
+489,451,2025-02-07,2025-02-14,Cardiology,Emergency,High,No,7
+490,446,2025-01-18,2025-02-06,Neurology,Infection,Low,No,19
+491,223,2025-06-06,2025-06-23,Cardiology,Chest Pain,Low,No,17
+492,371,2025-10-05,2025-10-30,General Surgery,Infection,High,No,25
+493,257,2025-07-29,2025-08-14,Cardiology,Chest Pain,Medium,No,16
+494,268,2025-08-14,2025-08-29,Cardiology,Chronic Disease Management,Medium,No,15
+495,359,2025-12-22,2026-01-13,Neurology,Infection,Low,Yes,22
+496,4,2025-03-21,2025-03-29,ER,Chronic Disease Management,Low,No,8
+497,426,2025-06-28,2025-07-17,Cardiology,Chest Pain,Medium,Yes,19
+498,397,2025-08-11,2025-08-19,Cardiology,Chest Pain,Low,No,8
+499,354,2025-09-08,2025-09-26,Internal Medicine,Infection,Medium,No,18
+500,106,2025-07-06,2025-08-03,Neurology,Emergency,Medium,No,28
+501,85,2025-08-13,2025-08-29,ER,Infection,Low,No,16
+502,214,2025-09-27,2025-10-17,Cardiology,Infection,High,Yes,20
+503,121,2025-05-11,2025-05-30,General Surgery,Chronic Disease Management,High,No,19
+504,132,2025-05-23,2025-06-02,Cardiology,Chronic Disease Management,Medium,No,10
+505,338,2025-06-17,2025-07-04,Cardiology,Fracture,Low,No,17
+506,197,2025-06-25,2025-07-08,General Surgery,Infection,Low,No,13
+507,19,2025-02-06,2025-02-19,Neurology,Fracture,Medium,No,13
+508,130,2025-10-14,2025-10-21,Internal Medicine,Emergency,Low,No,7
+509,12,2025-08-20,2025-09-16,Orthopedics,Chest Pain,Critical,No,27
+510,81,2025-02-26,2025-03-08,Orthopedics,Infection,Low,Yes,10
+511,330,2025-06-24,2025-06-26,Orthopedics,Chest Pain,Medium,No,2
+512,354,2025-11-24,2025-11-28,ER,Fracture,Low,No,4
+513,262,2025-03-27,2025-04-21,Orthopedics,Routine Check-up,Medium,No,25
+514,392,2025-12-25,2025-12-31,Orthopedics,Fracture,Low,No,6
+515,125,2025-11-26,2025-12-20,Orthopedics,Chest Pain,Medium,No,24
+516,307,2025-07-24,2025-08-11,Neurology,Infection,Low,No,18
+517,267,2025-03-05,2025-03-28,Orthopedics,Chest Pain,High,Yes,23
+518,447,2025-11-26,2025-12-02,ER,Chest Pain,Low,No,6
+519,441,2025-10-03,2025-11-01,Orthopedics,Routine Check-up,High,No,29
+520,383,2025-04-23,2025-05-18,Internal Medicine,Routine Check-up,High,No,25
+521,140,2025-09-22,2025-10-15,Cardiology,Emergency,Low,No,23
+522,329,2025-04-01,2025-04-18,General Surgery,Routine Check-up,High,No,17
+523,2,2025-01-31,2025-02-14,ER,Chronic Disease Management,Low,No,14
+524,8,2025-09-27,2025-10-21,Cardiology,Chest Pain,Critical,No,24
+525,250,2025-04-28,2025-05-09,ER,Routine Check-up,Medium,No,11
+526,139,2025-06-17,2025-07-13,Neurology,Routine Check-up,Low,No,26
+527,124,2025-02-08,2025-02-27,ER,Routine Check-up,Low,No,19
+528,309,2025-11-27,2025-11-29,General Surgery,Infection,Low,No,2
+529,228,2025-01-21,2025-02-18,Orthopedics,Fracture,Critical,No,28
+530,10,2025-05-09,2025-05-12,Cardiology,Routine Check-up,Low,No,3
+531,469,2025-03-28,2025-04-08,Orthopedics,Chronic Disease Management,Medium,No,11
+532,212,2025-01-19,2025-01-25,Cardiology,Emergency,Medium,No,6
+533,112,2025-04-11,2025-05-10,Cardiology,Chest Pain,High,No,29
+534,8,2025-10-18,2025-11-01,Cardiology,Fracture,Low,No,14
+535,292,2025-09-21,2025-10-10,Orthopedics,Fracture,Medium,No,19
+536,477,2025-07-03,2025-07-29,Internal Medicine,Routine Check-up,Medium,Yes,26
+537,362,2025-03-27,2025-04-12,Cardiology,Chest Pain,Medium,No,16
+538,460,2025-05-03,2025-05-24,Cardiology,Chest Pain,Low,No,21
+539,253,2025-06-11,2025-07-03,General Surgery,Emergency,Low,Yes,22
+540,14,2025-03-24,2025-04-17,Cardiology,Chest Pain,Low,Yes,24
+541,240,2025-08-29,2025-09-05,Cardiology,Routine Check-up,Medium,No,7
+542,438,2025-06-22,2025-07-19,Cardiology,Infection,Low,No,27
+543,242,2025-03-30,2025-04-07,ER,Routine Check-up,Medium,No,8
+544,469,2025-02-17,2025-03-08,Internal Medicine,Chronic Disease Management,Low,No,19
+545,342,2025-10-06,2025-10-26,Orthopedics,Emergency,High,No,20
+546,149,2025-04-06,2025-04-22,General Surgery,Emergency,High,No,16
+547,236,2025-02-18,2025-03-12,Neurology,Chest Pain,Medium,No,22
+548,306,2025-06-04,2025-07-01,General Surgery,Chest Pain,Low,No,27
+549,478,2025-10-12,2025-10-19,General Surgery,Fracture,Low,Yes,7
+550,167,2025-10-29,2025-11-07,General Surgery,Chronic Disease Management,Low,No,9
+551,20,2025-05-07,2025-05-20,Orthopedics,Routine Check-up,Low,No,13
+552,216,2025-09-02,2025-09-03,Cardiology,Infection,Medium,No,1
+553,343,2025-06-11,2025-07-10,Neurology,Chronic Disease Management,Medium,No,29
+554,135,2025-01-31,2025-02-08,Internal Medicine,Chest Pain,High,Yes,8
+555,393,2025-10-05,2025-10-29,Neurology,Routine Check-up,Low,No,24
+556,129,2025-10-26,2025-11-17,Internal Medicine,Emergency,Medium,No,22
+557,410,2025-11-16,2025-11-20,ER,Fracture,Medium,No,4
+558,422,2025-01-30,2025-02-02,Cardiology,Infection,Medium,No,3
+559,294,2025-11-16,2025-12-13,General Surgery,Chest Pain,Low,Yes,27
+560,246,2025-06-05,2025-06-08,General Surgery,Chronic Disease Management,Medium,No,3
+561,189,2025-12-24,2026-01-15,ER,Infection,Medium,No,22
+562,44,2025-10-02,2025-10-15,ER,Chest Pain,Medium,No,13
+563,86,2025-12-20,2025-12-28,General Surgery,Infection,High,No,8
+564,44,2025-11-24,2025-12-01,Cardiology,Fracture,Low,No,7
+565,330,2025-06-30,2025-07-27,Internal Medicine,Infection,Low,No,27
+566,375,2025-11-12,2025-11-13,Cardiology,Chronic Disease Management,Medium,Yes,1
+567,446,2025-09-20,2025-10-17,Internal Medicine,Chest Pain,Medium,No,27
+568,378,2025-09-02,2025-09-18,ER,Routine Check-up,Low,No,16
+569,390,2025-02-06,2025-02-12,Orthopedics,Chronic Disease Management,High,No,6
+570,145,2025-06-29,2025-07-06,General Surgery,Infection,Critical,No,7
+571,51,2025-02-03,2025-02-15,Orthopedics,Chest Pain,High,No,12
+572,242,2025-02-17,2025-03-12,Orthopedics,Routine Check-up,Low,No,23
+573,294,2026-01-01,2026-01-10,Orthopedics,Emergency,High,No,9
+574,408,2025-12-11,2026-01-07,Internal Medicine,Fracture,Medium,No,27
+575,51,2025-09-19,2025-09-30,ER,Fracture,Medium,Yes,11
+576,266,2025-08-01,2025-08-11,ER,Chest Pain,Medium,No,10
+577,120,2025-08-31,2025-09-21,Cardiology,Chronic Disease Management,High,No,21
+578,200,2025-07-05,2025-07-06,Internal Medicine,Chest Pain,Medium,No,1
+579,405,2025-07-30,2025-08-17,General Surgery,Infection,Low,No,18
+580,248,2025-06-26,2025-06-30,Orthopedics,Chronic Disease Management,Medium,Yes,4
+581,70,2025-01-10,2025-01-15,Cardiology,Chronic Disease Management,Medium,No,5
+582,341,2025-06-19,2025-06-28,Orthopedics,Infection,Low,No,9
+583,57,2025-06-11,2025-07-08,ER,Infection,High,No,27
+584,382,2025-09-22,2025-10-09,General Surgery,Chronic Disease Management,Medium,No,17
+585,39,2025-04-08,2025-04-11,General Surgery,Chest Pain,Medium,No,3
+586,472,2025-10-28,2025-11-13,Orthopedics,Chest Pain,Low,No,16
+587,289,2025-07-26,2025-07-31,General Surgery,Routine Check-up,Medium,No,5
+588,443,2025-04-24,2025-05-10,Cardiology,Chest Pain,Low,No,16
+589,18,2025-05-11,2025-05-14,Orthopedics,Chronic Disease Management,Low,No,3
+590,440,2025-04-09,2025-04-29,General Surgery,Emergency,Medium,No,20
+591,220,2025-09-29,2025-10-14,Cardiology,Fracture,Medium,No,15
+592,313,2025-07-20,2025-07-23,Internal Medicine,Infection,Medium,Yes,3
+593,244,2025-07-22,2025-08-11,Cardiology,Chronic Disease Management,Low,Yes,20
+594,352,2025-08-21,2025-09-04,General Surgery,Routine Check-up,Medium,Yes,14
+595,460,2025-07-05,2025-07-21,Orthopedics,Emergency,Low,No,16
+596,304,2025-10-15,2025-11-13,Neurology,Chronic Disease Management,Critical,Yes,29
+597,298,2025-11-18,2025-12-17,Cardiology,Chest Pain,Medium,No,29
+598,283,2025-09-20,2025-10-07,Cardiology,Chronic Disease Management,Medium,No,17
+599,74,2025-02-01,2025-03-01,ER,Infection,Low,Yes,28
+600,110,2025-11-27,2025-12-21,Orthopedics,Infection,Low,No,24
+601,180,2025-06-12,2025-07-02,Internal Medicine,Chest Pain,Critical,No,20
+602,426,2025-06-23,2025-07-16,ER,Chest Pain,Low,No,23
+603,32,2025-03-17,2025-04-04,Cardiology,Routine Check-up,Medium,No,18
+604,234,2025-01-28,2025-02-15,Orthopedics,Infection,Medium,No,18
+605,282,2025-05-14,2025-06-05,General Surgery,Fracture,Low,No,22
+606,25,2025-09-16,2025-09-30,ER,Infection,High,No,14
+607,331,2025-12-14,2026-01-01,ER,Routine Check-up,Medium,No,18
+608,279,2025-03-16,2025-03-31,Neurology,Chronic Disease Management,Low,No,15
+609,226,2025-10-24,2025-11-08,Internal Medicine,Fracture,Low,No,15
+610,57,2025-08-25,2025-08-31,Cardiology,Chest Pain,Low,No,6
+611,180,2025-12-20,2026-01-16,ER,Fracture,High,No,27
+612,232,2025-06-12,2025-06-27,ER,Emergency,Medium,No,15
+613,382,2025-05-14,2025-06-01,Cardiology,Chronic Disease Management,Low,Yes,18
+614,343,2025-12-01,2025-12-05,Orthopedics,Infection,Low,No,4
+615,477,2025-04-16,2025-05-09,Cardiology,Chronic Disease Management,Medium,No,23
+616,287,2025-06-16,2025-06-24,Orthopedics,Infection,Medium,No,8
+617,64,2025-04-17,2025-05-02,Internal Medicine,Routine Check-up,Medium,No,15
+618,455,2025-08-08,2025-08-11,Orthopedics,Infection,Low,No,3
+619,232,2025-11-28,2025-12-13,Cardiology,Chest Pain,Low,No,15
+620,289,2025-12-29,2026-01-11,Orthopedics,Chest Pain,Medium,Yes,13
+621,213,2025-03-21,2025-03-30,ER,Infection,Critical,Yes,9
+622,258,2025-10-03,2025-10-05,General Surgery,Emergency,Low,No,2
+623,18,2025-04-09,2025-05-03,Orthopedics,Fracture,Medium,No,24
+624,175,2025-05-24,2025-06-01,Cardiology,Routine Check-up,Medium,No,8
+625,417,2025-06-03,2025-07-02,ER,Routine Check-up,Medium,No,29
+626,229,2025-11-05,2025-11-25,Internal Medicine,Fracture,Low,Yes,20
+627,226,2025-01-19,2025-02-05,Orthopedics,Chest Pain,High,No,17
+628,84,2025-05-22,2025-06-04,Cardiology,Chest Pain,Medium,No,13
+629,291,2025-02-15,2025-02-16,Cardiology,Chronic Disease Management,Medium,No,1
+630,435,2025-11-18,2025-11-20,Cardiology,Chest Pain,Low,No,2
+631,370,2025-04-21,2025-05-06,Neurology,Infection,Low,No,15
+632,246,2025-04-17,2025-04-29,ER,Infection,Low,No,12
+633,402,2025-01-15,2025-01-29,Neurology,Chronic Disease Management,Medium,No,14
+634,110,2025-02-26,2025-03-23,Internal Medicine,Chest Pain,Low,No,25
+635,254,2025-02-19,2025-03-20,Orthopedics,Infection,Medium,No,29
+636,88,2025-08-08,2025-08-10,General Surgery,Infection,Low,Yes,2
+637,72,2025-01-16,2025-02-03,General Surgery,Infection,Medium,No,18
+638,381,2025-08-22,2025-09-13,Cardiology,Routine Check-up,Medium,No,22
+639,30,2025-11-19,2025-11-26,Orthopedics,Chest Pain,Low,No,7
+640,172,2025-09-14,2025-10-13,General Surgery,Routine Check-up,Low,No,29
+641,309,2025-11-24,2025-12-17,Cardiology,Chronic Disease Management,Low,Yes,23
+642,394,2025-03-06,2025-04-04,Orthopedics,Chronic Disease Management,Medium,No,29
+643,343,2025-10-13,2025-11-07,Neurology,Chronic Disease Management,Medium,No,25
+644,436,2025-06-15,2025-06-21,ER,Infection,Low,No,6
+645,177,2025-04-15,2025-04-29,Neurology,Chest Pain,Medium,No,14
+646,139,2025-10-12,2025-10-20,Internal Medicine,Chronic Disease Management,Low,No,8
+647,194,2025-09-13,2025-10-10,Orthopedics,Infection,Low,No,27
+648,186,2025-11-16,2025-12-08,Internal Medicine,Chronic Disease Management,Low,Yes,22
+649,218,2025-09-15,2025-09-17,Neurology,Fracture,High,No,2
+650,164,2025-09-13,2025-09-30,Internal Medicine,Emergency,Low,No,17
+651,161,2025-04-24,2025-04-29,Orthopedics,Chronic Disease Management,Low,No,5
+652,431,2025-10-26,2025-11-09,General Surgery,Chest Pain,Low,No,14
+653,13,2025-03-10,2025-04-04,General Surgery,Infection,Low,No,25
+654,296,2026-01-02,2026-01-26,Orthopedics,Routine Check-up,Medium,No,24
+655,89,2025-09-09,2025-10-08,Cardiology,Routine Check-up,Low,No,29
+656,324,2025-12-29,2026-01-18,Cardiology,Infection,Low,Yes,20
+657,42,2025-01-26,2025-02-16,Cardiology,Routine Check-up,Medium,No,21
+658,403,2025-06-08,2025-07-07,Internal Medicine,Fracture,Low,No,29
+659,210,2025-04-05,2025-04-26,Cardiology,Infection,Medium,No,21
+660,229,2025-12-12,2026-01-03,Cardiology,Routine Check-up,Medium,No,22
+661,350,2025-05-19,2025-05-22,General Surgery,Routine Check-up,Low,No,3
+662,275,2025-03-02,2025-03-07,Orthopedics,Chronic Disease Management,Medium,No,5
+663,442,2025-12-14,2025-12-30,Neurology,Routine Check-up,Low,No,16
+664,279,2025-11-16,2025-12-04,Cardiology,Chest Pain,Medium,No,18
+665,251,2025-12-11,2026-01-06,ER,Routine Check-up,Medium,No,26
+666,310,2025-01-21,2025-02-07,Internal Medicine,Fracture,Low,Yes,17
+667,208,2025-07-29,2025-08-09,Internal Medicine,Chest Pain,Medium,No,11
+668,321,2025-04-14,2025-05-01,Orthopedics,Fracture,High,No,17
+669,140,2025-02-09,2025-02-25,Internal Medicine,Infection,Critical,No,16
+670,280,2025-12-05,2025-12-31,Cardiology,Fracture,Medium,No,26
+671,34,2025-03-29,2025-04-21,Cardiology,Fracture,Medium,No,23
+672,309,2025-01-26,2025-01-28,Cardiology,Chest Pain,Low,No,2
+673,392,2025-04-11,2025-04-15,Neurology,Fracture,Low,No,4
+674,18,2025-06-15,2025-07-06,Neurology,Chronic Disease Management,Medium,Yes,21
+675,57,2025-05-16,2025-05-23,Neurology,Infection,Low,No,7
+676,112,2025-10-08,2025-10-10,Cardiology,Fracture,High,No,2
+677,5,2025-07-20,2025-07-26,Orthopedics,Chronic Disease Management,Low,Yes,6
+678,410,2025-10-22,2025-11-08,General Surgery,Routine Check-up,Low,No,17
+679,414,2025-09-21,2025-09-28,Orthopedics,Routine Check-up,Low,Yes,7
+680,182,2025-06-06,2025-07-01,General Surgery,Fracture,High,No,25
+681,13,2025-01-16,2025-01-21,Cardiology,Chronic Disease Management,Medium,No,5
+682,339,2025-09-25,2025-09-30,Internal Medicine,Chest Pain,Medium,No,5
+683,285,2025-11-23,2025-12-13,Neurology,Chest Pain,Low,No,20
+684,259,2025-07-12,2025-07-28,Cardiology,Fracture,High,No,16
+685,90,2025-11-06,2025-11-25,Cardiology,Routine Check-up,Low,Yes,19
+686,104,2025-05-08,2025-05-17,General Surgery,Fracture,High,Yes,9
+687,379,2025-05-10,2025-05-15,Internal Medicine,Chest Pain,Medium,No,5
+688,186,2025-02-23,2025-03-03,Orthopedics,Chest Pain,Low,No,8
+689,250,2025-10-14,2025-10-23,Orthopedics,Routine Check-up,Medium,No,9
+690,255,2025-06-06,2025-06-11,Internal Medicine,Chronic Disease Management,Medium,No,5
+691,76,2026-01-02,2026-01-12,General Surgery,Fracture,Low,No,10
+692,386,2025-04-06,2025-05-01,Orthopedics,Chronic Disease Management,High,No,25
+693,459,2025-02-06,2025-02-08,Neurology,Infection,Medium,Yes,2
+694,108,2025-06-13,2025-06-22,Cardiology,Chronic Disease Management,Low,No,9
+695,156,2025-07-24,2025-08-04,General Surgery,Fracture,Low,No,11
+696,82,2025-02-13,2025-02-17,Orthopedics,Routine Check-up,Medium,No,4
+697,77,2025-08-24,2025-09-15,ER,Fracture,Medium,No,22
+698,485,2025-03-09,2025-03-31,Neurology,Chronic Disease Management,Medium,No,22
+699,470,2025-05-24,2025-06-15,Neurology,Chest Pain,Medium,No,22
+700,460,2025-03-07,2025-03-09,Neurology,Infection,Medium,No,2
+701,258,2025-08-01,2025-08-24,ER,Infection,Critical,Yes,23
+702,127,2026-01-08,2026-02-06,Internal Medicine,Infection,Medium,Yes,29
+703,485,2025-05-18,2025-05-24,Neurology,Chest Pain,High,No,6
+704,391,2025-07-05,2025-08-01,General Surgery,Routine Check-up,Low,No,27
+705,282,2026-01-05,2026-01-19,Neurology,Fracture,Low,No,14
+706,474,2025-08-30,2025-08-31,Neurology,Chronic Disease Management,Low,Yes,1
+707,88,2025-06-05,2025-06-23,Cardiology,Routine Check-up,Medium,No,18
+708,204,2025-04-24,2025-05-01,Neurology,Chronic Disease Management,High,No,7
+709,16,2026-01-08,2026-01-09,Cardiology,Chronic Disease Management,Low,No,1
+710,151,2025-10-30,2025-10-31,ER,Chronic Disease Management,Low,No,1
+711,424,2025-07-15,2025-07-16,Orthopedics,Infection,High,No,1
+712,254,2025-07-04,2025-07-28,ER,Routine Check-up,Low,Yes,24
+713,188,2025-03-24,2025-03-28,Neurology,Fracture,Medium,No,4
+714,329,2026-01-01,2026-01-05,General Surgery,Chronic Disease Management,Medium,No,4
+715,32,2025-05-01,2025-05-30,Neurology,Chronic Disease Management,High,No,29
+716,271,2025-03-23,2025-04-10,Cardiology,Infection,Low,No,18
+717,485,2025-05-10,2025-06-06,Orthopedics,Fracture,Low,No,27
+718,397,2025-09-08,2025-09-19,Cardiology,Infection,Medium,Yes,11
+719,5,2025-03-16,2025-04-12,General Surgery,Routine Check-up,High,No,27
+720,459,2025-04-01,2025-04-02,Orthopedics,Emergency,Medium,No,1
+721,330,2025-12-08,2026-01-05,Internal Medicine,Infection,Low,No,28
+722,308,2025-02-09,2025-02-19,Cardiology,Chronic Disease Management,Medium,No,10
+723,333,2025-08-16,2025-08-25,Cardiology,Emergency,High,No,9
+724,169,2025-08-06,2025-08-29,Orthopedics,Chest Pain,High,No,23
+725,181,2025-12-24,2025-12-28,ER,Fracture,Critical,No,4
+726,366,2025-01-19,2025-02-16,General Surgery,Chronic Disease Management,Low,Yes,28
+727,178,2025-11-23,2025-11-29,Orthopedics,Routine Check-up,Low,No,6
+728,143,2025-05-03,2025-05-19,Neurology,Routine Check-up,Medium,No,16
+729,362,2025-07-06,2025-07-08,Cardiology,Infection,High,No,2
+730,248,2025-12-09,2026-01-01,ER,Chest Pain,Low,No,23
+731,127,2025-04-24,2025-05-12,General Surgery,Infection,Low,No,18
+732,263,2025-12-23,2026-01-02,Orthopedics,Fracture,High,No,10
+733,40,2025-12-01,2025-12-25,Neurology,Fracture,Low,No,24
+734,412,2025-03-11,2025-04-04,Cardiology,Routine Check-up,Low,Yes,24
+735,416,2025-12-01,2025-12-18,ER,Chest Pain,Medium,No,17
+736,355,2025-08-30,2025-09-12,Cardiology,Routine Check-up,Medium,No,13
+737,255,2025-12-10,2026-01-03,General Surgery,Infection,Medium,No,24
+738,143,2025-08-04,2025-08-22,Cardiology,Chronic Disease Management,Low,Yes,18
+739,240,2025-04-06,2025-04-28,General Surgery,Chest Pain,Medium,No,22
+740,228,2025-06-20,2025-07-03,Internal Medicine,Fracture,Medium,Yes,13
+741,341,2025-11-04,2025-11-21,General Surgery,Chest Pain,Medium,No,17
+742,198,2025-09-23,2025-09-28,General Surgery,Emergency,Medium,No,5
+743,65,2025-04-16,2025-04-27,Internal Medicine,Routine Check-up,Low,No,11
+744,388,2025-06-01,2025-06-08,Cardiology,Infection,Low,No,7
+745,11,2025-03-23,2025-04-21,Orthopedics,Fracture,Low,No,29
+746,108,2025-12-22,2026-01-01,Cardiology,Emergency,Low,No,10
+747,26,2025-10-11,2025-10-28,ER,Fracture,Medium,No,17
+748,445,2025-07-12,2025-07-27,Orthopedics,Chest Pain,High,No,15
+749,421,2025-04-29,2025-05-17,General Surgery,Chronic Disease Management,Medium,No,18
+750,151,2025-05-01,2025-05-24,General Surgery,Emergency,High,No,23
+751,221,2025-04-27,2025-05-19,Cardiology,Chest Pain,Low,No,22
+752,341,2025-01-28,2025-02-16,Cardiology,Fracture,Medium,No,19
+753,496,2025-10-14,2025-11-09,Orthopedics,Emergency,Low,No,26
+754,237,2025-10-11,2025-10-13,Orthopedics,Chest Pain,Low,No,2
+755,237,2025-05-17,2025-06-12,Cardiology,Chest Pain,Low,No,26
+756,497,2025-10-31,2025-11-04,Cardiology,Chronic Disease Management,Medium,No,4
+757,219,2025-11-26,2025-11-29,Internal Medicine,Routine Check-up,Critical,No,3
+758,487,2025-06-23,2025-06-30,ER,Infection,Low,No,7
+759,424,2025-08-10,2025-09-03,Orthopedics,Emergency,Low,No,24
+760,461,2025-10-15,2025-11-02,Orthopedics,Chronic Disease Management,High,No,18
+761,151,2025-12-21,2025-12-31,Cardiology,Chest Pain,Low,Yes,10
+762,123,2025-09-30,2025-10-07,General Surgery,Emergency,High,No,7
+763,144,2025-10-06,2025-10-14,Internal Medicine,Infection,Medium,No,8
+764,478,2025-04-30,2025-05-06,Cardiology,Fracture,High,No,6
+765,189,2025-01-17,2025-02-08,Cardiology,Chronic Disease Management,Medium,Yes,22
+766,255,2025-12-10,2026-01-05,Internal Medicine,Fracture,Medium,No,26
+767,68,2025-05-05,2025-05-06,General Surgery,Chest Pain,Medium,No,1
+768,104,2025-12-07,2025-12-11,Cardiology,Chest Pain,Medium,No,4
+769,336,2025-05-25,2025-06-08,General Surgery,Infection,Medium,No,14
+770,159,2025-12-28,2026-01-14,Orthopedics,Routine Check-up,Low,No,17
+771,309,2025-09-13,2025-10-03,Orthopedics,Chronic Disease Management,Medium,No,20
+772,362,2025-01-24,2025-02-11,Internal Medicine,Emergency,Medium,Yes,18
+773,409,2025-08-07,2025-08-18,Internal Medicine,Fracture,High,No,11
+774,300,2025-05-08,2025-06-06,Orthopedics,Fracture,Medium,No,29
+775,396,2025-02-11,2025-03-04,ER,Chest Pain,Medium,Yes,21
+776,90,2025-05-07,2025-06-02,Orthopedics,Chest Pain,Low,No,26
+777,357,2025-12-11,2025-12-25,Internal Medicine,Fracture,Medium,No,14
+778,256,2025-08-01,2025-08-10,Neurology,Routine Check-up,Medium,No,9
+779,496,2025-05-19,2025-06-15,Internal Medicine,Emergency,High,No,27
+780,353,2025-07-03,2025-07-18,ER,Emergency,High,No,15
+781,220,2025-09-14,2025-09-26,Cardiology,Fracture,Low,No,12
+782,9,2025-04-13,2025-04-23,ER,Routine Check-up,High,No,10
+783,12,2025-04-26,2025-05-15,Internal Medicine,Fracture,Low,Yes,19
+784,325,2025-07-13,2025-08-06,Internal Medicine,Chest Pain,Low,No,24
+785,438,2025-07-21,2025-08-09,Cardiology,Routine Check-up,Medium,No,19
+786,244,2025-04-10,2025-04-16,Internal Medicine,Chronic Disease Management,Low,No,6
+787,182,2025-04-25,2025-05-15,Internal Medicine,Chest Pain,Medium,No,20
+788,284,2025-08-27,2025-09-20,Orthopedics,Infection,Low,No,24
+789,312,2025-07-22,2025-08-18,ER,Fracture,Low,No,27
+790,99,2025-06-13,2025-06-19,Cardiology,Chronic Disease Management,Medium,No,6
+791,197,2025-05-18,2025-05-26,Cardiology,Infection,Medium,No,8
+792,482,2025-07-07,2025-07-08,Neurology,Emergency,High,No,1
+793,366,2025-01-10,2025-02-01,Neurology,Chest Pain,Medium,No,22
+794,226,2025-10-06,2025-10-23,General Surgery,Infection,Medium,No,17
+795,333,2025-12-29,2026-01-15,Cardiology,Infection,Low,No,17
+796,103,2025-11-02,2025-11-26,ER,Infection,Low,No,24
+797,106,2025-06-13,2025-06-28,Cardiology,Fracture,Low,No,15
+798,365,2025-06-27,2025-07-04,Cardiology,Chronic Disease Management,Medium,No,7
+799,368,2025-10-03,2025-10-22,Cardiology,Routine Check-up,Medium,No,19
+800,58,2025-10-08,2025-10-30,Neurology,Emergency,Medium,No,22

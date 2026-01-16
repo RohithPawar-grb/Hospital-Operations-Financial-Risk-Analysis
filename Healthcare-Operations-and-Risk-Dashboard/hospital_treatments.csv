@@ -1,0 +1,1201 @@
+﻿treatment_id,admission_id,treatment_type,treatment_date,outcome,cost_usd
+1,192,Diagnostic Test,23 February 2025,Success,5395
+2,77,Medication,03 October 2025,Success,5448
+3,281,Medication,24 December 2025,Success,8607
+4,364,Medication,30 January 2025,Partial Recovery,500
+5,179,Medication,23 October 2025,Success,5374
+6,238,Medication,28 January 2025,Success,1372
+7,135,Medication,29 October 2025,No Change,7272
+8,280,Medication,14 April 2025,Success,2486
+9,19,Surgery,28 March 2025,Success,500
+10,595,Medication,04 November 2025,Success,7344
+11,740,Surgery,02 November 2025,Partial Recovery,4194
+12,371,Surgery,30 June 2025,No Change,6069
+13,777,Monitoring,15 November 2025,No Change,9281
+14,112,Therapy,25 July 2025,Partial Recovery,6114
+15,763,Therapy,15 December 2025,Success,5508
+16,676,Medication,31 August 2025,Success,4858
+17,680,Monitoring,18 February 2025,Success,1558
+18,221,Therapy,29 September 2025,Success,4354
+19,304,Diagnostic Test,02 April 2025,Partial Recovery,10921
+20,703,Medication,19 March 2025,Partial Recovery,3874
+21,325,Monitoring,21 March 2025,Success,4531
+22,437,Diagnostic Test,21 April 2025,Partial Recovery,8771
+23,438,Diagnostic Test,11 September 2025,Success,500
+24,170,Surgery,23 May 2025,Success,6860
+25,375,Medication,24 March 2025,Partial Recovery,500
+26,557,Medication,01 August 2025,Success,6197
+27,381,Medication,01 August 2025,Success,4932
+28,14,Diagnostic Test,23 October 2025,Success,6837
+29,743,Surgery,02 December 2025,Success,1962
+30,669,Surgery,12 December 2025,Partial Recovery,3394
+31,500,Medication,01 October 2025,No Change,6992
+32,646,Surgery,21 March 2025,Success,3470
+33,391,Medication,07 September 2025,Success,7266
+34,549,Diagnostic Test,09 October 2025,Partial Recovery,5627
+35,565,Therapy,29 April 2025,No Change,3662
+36,530,Surgery,04 October 2025,Success,4053
+37,492,Medication,03 January 2026,Success,5010
+38,550,Medication,24 July 2025,Partial Recovery,4339
+39,699,Surgery,13 April 2025,Success,7190
+40,385,Therapy,23 September 2025,Success,3886
+41,196,Diagnostic Test,16 March 2025,Success,3280
+42,755,Diagnostic Test,23 November 2025,Success,7730
+43,300,Diagnostic Test,02 October 2025,Success,3733
+44,547,Surgery,26 December 2025,Success,3378
+45,727,Monitoring,29 June 2025,No Change,500
+46,731,Diagnostic Test,05 August 2025,Success,1881
+47,602,Monitoring,08 August 2025,Success,2484
+48,308,Surgery,16 September 2025,Success,3379
+49,252,Monitoring,26 April 2025,No Change,2833
+50,8,Diagnostic Test,17 August 2025,Success,7949
+51,768,Diagnostic Test,24 March 2025,Success,2674
+52,208,Surgery,30 December 2025,Success,2898
+53,131,Diagnostic Test,09 June 2025,Partial Recovery,5466
+54,736,Monitoring,21 May 2025,Success,1694
+55,709,Therapy,22 July 2025,Success,9691
+56,654,Therapy,19 December 2025,Success,7406
+57,764,Monitoring,25 December 2025,No Change,1495
+58,608,Medication,05 September 2025,Success,8041
+59,26,Therapy,02 February 2025,Partial Recovery,8665
+60,623,Medication,02 February 2025,No Change,1573
+61,454,Monitoring,10 June 2025,No Change,1504
+62,635,Surgery,05 July 2025,Success,3168
+63,186,Medication,21 July 2025,Complications,754
+64,484,Therapy,07 May 2025,Success,2659
+65,680,Diagnostic Test,04 January 2026,Success,3799
+66,51,Therapy,23 May 2025,No Change,6512
+67,5,Monitoring,22 June 2025,Success,5243
+68,589,Monitoring,13 August 2025,Success,4555
+69,160,Surgery,29 October 2025,Success,3550
+70,208,Medication,28 May 2025,Success,1076
+71,257,Surgery,27 October 2025,Success,6775
+72,205,Medication,08 March 2025,Partial Recovery,6708
+73,767,Medication,24 July 2025,No Change,3149
+74,11,Monitoring,05 May 2025,Partial Recovery,1696
+75,8,Diagnostic Test,04 April 2025,Success,9668
+76,409,Surgery,10 August 2025,No Change,5740
+77,32,Surgery,30 May 2025,Success,6190
+78,540,Therapy,29 May 2025,Success,6320
+79,718,Medication,02 December 2025,Success,1392
+80,387,Medication,26 November 2025,Success,9497
+81,228,Diagnostic Test,08 July 2025,Success,3789
+82,640,Monitoring,13 May 2025,Success,7466
+83,767,Medication,12 February 2025,Success,9375
+84,475,Diagnostic Test,23 January 2025,Success,5244
+85,724,Medication,13 June 2025,Success,1455
+86,751,Diagnostic Test,17 December 2025,Partial Recovery,500
+87,207,Medication,07 September 2025,Partial Recovery,4884
+88,318,Surgery,15 October 2025,Success,5750
+89,795,Monitoring,27 November 2025,Success,3257
+90,757,Medication,30 November 2025,Complications,5407
+91,557,Diagnostic Test,12 March 2025,Success,6291
+92,617,Medication,24 July 2025,No Change,7981
+93,348,Surgery,18 July 2025,Success,4314
+94,793,Surgery,20 December 2025,No Change,4863
+95,234,Medication,22 September 2025,Success,4464
+96,701,Therapy,30 June 2025,Success,5100
+97,44,Medication,10 May 2025,Partial Recovery,3460
+98,737,Therapy,19 February 2025,Success,3446
+99,142,Therapy,04 April 2025,Success,3634
+100,648,Diagnostic Test,26 May 2025,Success,5468
+101,176,Medication,04 December 2025,Partial Recovery,2458
+102,654,Monitoring,25 November 2025,Success,3647
+103,449,Medication,12 December 2025,Success,10425
+104,592,Medication,08 August 2025,Success,7689
+105,82,Surgery,17 December 2025,Success,2128
+106,135,Medication,16 June 2025,Partial Recovery,7594
+107,719,Surgery,10 October 2025,Success,6882
+108,177,Therapy,15 January 2025,Success,4688
+109,383,Medication,02 December 2025,Success,2876
+110,243,Medication,26 May 2025,Success,2535
+111,567,Diagnostic Test,21 June 2025,Success,5671
+112,141,Medication,24 January 2025,Success,2461
+113,457,Medication,06 March 2025,Success,8291
+114,440,Surgery,30 April 2025,Complications,9142
+115,56,Diagnostic Test,02 December 2025,Success,4871
+116,527,Surgery,02 June 2025,Partial Recovery,8416
+117,697,Medication,06 July 2025,Success,3765
+118,419,Medication,27 November 2025,Success,2856
+119,88,Therapy,15 January 2025,Success,8300
+120,609,Therapy,17 September 2025,Success,9739
+121,656,Diagnostic Test,24 April 2025,Complications,10889
+122,8,Surgery,04 January 2026,No Change,5997
+123,477,Medication,02 November 2025,Partial Recovery,7586
+124,215,Medication,26 May 2025,Success,5931
+125,685,Surgery,08 September 2025,Success,9210
+126,735,Medication,20 July 2025,Success,6299
+127,552,Medication,07 February 2025,No Change,7415
+128,497,Medication,09 August 2025,Success,1593
+129,694,Therapy,17 April 2025,Success,4306
+130,503,Medication,05 August 2025,Success,7440
+131,782,Diagnostic Test,31 July 2025,Success,7171
+132,699,Medication,09 June 2025,No Change,7696
+133,245,Medication,14 December 2025,Success,5361
+134,478,Medication,23 March 2025,Success,3043
+135,309,Surgery,04 July 2025,Success,4823
+136,231,Surgery,09 September 2025,Partial Recovery,5141
+137,383,Medication,24 May 2025,Success,5725
+138,155,Monitoring,11 November 2025,Partial Recovery,2096
+139,175,Diagnostic Test,05 October 2025,Success,4202
+140,115,Surgery,22 April 2025,No Change,4733
+141,390,Diagnostic Test,20 January 2025,Partial Recovery,500
+142,311,Diagnostic Test,03 March 2025,Success,7497
+143,300,Therapy,26 August 2025,Success,5492
+144,18,Diagnostic Test,24 January 2025,Success,5795
+145,784,Medication,01 April 2025,Success,3453
+146,12,Medication,11 September 2025,No Change,6758
+147,404,Medication,15 December 2025,Success,2504
+148,704,Medication,01 February 2025,Success,2975
+149,232,Medication,16 August 2025,Success,6884
+150,605,Therapy,28 December 2025,Success,6071
+151,730,Monitoring,14 October 2025,No Change,1167
+152,278,Monitoring,22 September 2025,Success,9732
+153,353,Diagnostic Test,29 January 2025,Complications,2724
+154,303,Diagnostic Test,18 April 2025,No Change,4602
+155,541,Monitoring,01 June 2025,Success,10240
+156,470,Surgery,27 October 2025,Success,500
+157,77,Medication,10 February 2025,No Change,500
+158,521,Medication,05 March 2025,Success,6325
+159,24,Diagnostic Test,29 September 2025,Success,500
+160,15,Medication,25 August 2025,Success,500
+161,676,Diagnostic Test,02 July 2025,Success,8525
+162,525,Surgery,20 August 2025,Partial Recovery,3773
+163,347,Medication,17 January 2025,Success,11588
+164,172,Diagnostic Test,28 October 2025,Success,1895
+165,327,Surgery,15 February 2025,No Change,4044
+166,712,Medication,26 July 2025,Partial Recovery,6621
+167,485,Medication,25 July 2025,Success,6414
+168,489,Medication,16 November 2025,Partial Recovery,4235
+169,462,Diagnostic Test,25 April 2025,Success,3054
+170,378,Medication,20 September 2025,Partial Recovery,5694
+171,588,Therapy,22 May 2025,Success,9130
+172,164,Surgery,01 August 2025,Success,7288
+173,372,Diagnostic Test,22 January 2025,Partial Recovery,3102
+174,573,Medication,16 February 2025,Success,2024
+175,424,Therapy,21 December 2025,Complications,2921
+176,757,Diagnostic Test,25 March 2025,Success,1178
+177,477,Medication,20 November 2025,No Change,5442
+178,382,Diagnostic Test,18 July 2025,No Change,7441
+179,155,Therapy,13 March 2025,Success,4785
+180,257,Medication,09 July 2025,Partial Recovery,10159
+181,756,Surgery,08 July 2025,Success,10326
+182,674,Monitoring,04 February 2025,No Change,5923
+183,68,Diagnostic Test,08 March 2025,Success,7105
+184,344,Medication,05 March 2025,Partial Recovery,2298
+185,277,Medication,28 January 2025,Success,3917
+186,673,Diagnostic Test,20 October 2025,Success,8816
+187,391,Therapy,06 August 2025,Success,3262
+188,449,Diagnostic Test,09 April 2025,Success,9462
+189,259,Medication,01 April 2025,Partial Recovery,8337
+190,307,Diagnostic Test,05 May 2025,Success,7254
+191,95,Medication,15 August 2025,Partial Recovery,1481
+192,464,Medication,02 January 2026,Success,4064
+193,246,Therapy,05 August 2025,Success,6932
+194,733,Monitoring,22 July 2025,Success,2042
+195,635,Medication,01 November 2025,Partial Recovery,4429
+196,187,Medication,07 October 2025,Complications,7256
+197,774,Therapy,07 July 2025,Success,3295
+198,785,Medication,23 July 2025,Success,2460
+199,373,Diagnostic Test,19 June 2025,Success,500
+200,572,Diagnostic Test,28 November 2025,Partial Recovery,3840
+201,406,Surgery,27 December 2025,Success,7319
+202,408,Monitoring,08 August 2025,Partial Recovery,2381
+203,125,Diagnostic Test,10 April 2025,Success,5053
+204,337,Diagnostic Test,17 March 2025,Partial Recovery,4327
+205,341,Therapy,19 November 2025,Partial Recovery,3000
+206,563,Diagnostic Test,11 June 2025,Success,7513
+207,178,Surgery,18 August 2025,Success,9926
+208,651,Medication,17 January 2025,Success,8013
+209,170,Diagnostic Test,06 January 2026,Success,2912
+210,39,Medication,30 April 2025,No Change,10977
+211,69,Surgery,08 February 2025,Success,8004
+212,236,Diagnostic Test,28 April 2025,Partial Recovery,3627
+213,560,Diagnostic Test,03 October 2025,Success,2674
+214,381,Surgery,20 July 2025,Success,8363
+215,57,Diagnostic Test,12 August 2025,Success,5521
+216,277,Therapy,05 April 2025,Success,2447
+217,99,Medication,11 November 2025,Success,4555
+218,527,Diagnostic Test,18 September 2025,Success,3778
+219,325,Medication,19 February 2025,Success,2527
+220,461,Surgery,11 May 2025,Success,8043
+221,179,Medication,05 March 2025,Success,7345
+222,574,Medication,13 November 2025,Success,7515
+223,119,Medication,10 November 2025,Success,7474
+224,469,Diagnostic Test,14 February 2025,No Change,2251
+225,549,Diagnostic Test,07 June 2025,Success,3188
+226,646,Therapy,21 May 2025,Partial Recovery,9375
+227,455,Diagnostic Test,15 November 2025,Success,5324
+228,26,Surgery,15 June 2025,Partial Recovery,588
+229,490,Surgery,07 November 2025,Success,5650
+230,8,Diagnostic Test,09 July 2025,No Change,6964
+231,516,Surgery,04 March 2025,Success,6572
+232,533,Medication,03 April 2025,Partial Recovery,2186
+233,149,Therapy,14 December 2025,Success,10660
+234,488,Medication,16 July 2025,Success,500
+235,25,Diagnostic Test,07 November 2025,Partial Recovery,5332
+236,655,Medication,28 October 2025,Success,10209
+237,757,Surgery,08 February 2025,Success,6774
+238,555,Medication,26 July 2025,Success,7508
+239,425,Therapy,29 May 2025,Success,1840
+240,293,Medication,05 November 2025,Complications,6041
+241,185,Medication,01 November 2025,Success,4890
+242,554,Diagnostic Test,31 December 2025,Partial Recovery,1609
+243,431,Monitoring,18 May 2025,Success,7595
+244,604,Medication,25 June 2025,Success,2541
+245,317,Medication,20 July 2025,No Change,2897
+246,398,Medication,02 April 2025,No Change,6297
+247,324,Monitoring,12 December 2025,Partial Recovery,4570
+248,565,Monitoring,19 March 2025,Success,5507
+249,596,Medication,28 August 2025,Success,4386
+250,546,Diagnostic Test,13 December 2025,Success,9239
+251,76,Medication,02 December 2025,Success,2224
+252,709,Surgery,27 June 2025,Success,3605
+253,486,Surgery,20 June 2025,Partial Recovery,6443
+254,798,Medication,16 October 2025,No Change,2036
+255,88,Medication,23 February 2025,Success,1903
+256,747,Surgery,10 December 2025,Success,5413
+257,232,Therapy,02 October 2025,No Change,7602
+258,7,Medication,03 July 2025,Success,7993
+259,550,Therapy,28 December 2025,Success,5275
+260,52,Medication,10 October 2025,Success,2983
+261,655,Surgery,10 December 2025,Success,5826
+262,396,Medication,10 June 2025,Complications,6698
+263,221,Medication,02 December 2025,Success,5785
+264,428,Medication,02 February 2025,Success,8702
+265,752,Surgery,10 November 2025,Success,1957
+266,143,Medication,21 March 2025,No Change,2909
+267,363,Surgery,19 August 2025,No Change,8286
+268,382,Therapy,13 July 2025,Success,580
+269,561,Diagnostic Test,30 March 2025,Success,3381
+270,277,Surgery,19 September 2025,Success,2805
+271,271,Medication,24 May 2025,Success,500
+272,14,Surgery,19 December 2025,Partial Recovery,4438
+273,298,Therapy,17 August 2025,Success,7238
+274,464,Medication,16 August 2025,Success,5468
+275,527,Medication,27 February 2025,Partial Recovery,7398
+276,234,Medication,27 July 2025,Success,8575
+277,575,Monitoring,22 August 2025,No Change,3843
+278,708,Medication,20 June 2025,Success,12940
+279,27,Therapy,10 May 2025,Success,3963
+280,471,Medication,18 September 2025,Complications,4362
+281,93,Monitoring,22 June 2025,Success,2877
+282,617,Diagnostic Test,01 March 2025,Partial Recovery,6636
+283,309,Medication,25 April 2025,Success,4128
+284,52,Diagnostic Test,29 April 2025,Success,4763
+285,319,Medication,17 December 2025,Partial Recovery,4384
+286,181,Diagnostic Test,08 May 2025,Success,4316
+287,569,Diagnostic Test,04 February 2025,Partial Recovery,5474
+288,120,Surgery,04 March 2025,Success,3649
+289,43,Diagnostic Test,25 February 2025,Success,3790
+290,647,Medication,14 October 2025,Success,8218
+291,260,Medication,04 June 2025,Success,4119
+292,197,Medication,18 January 2025,Success,6150
+293,645,Diagnostic Test,13 December 2025,Success,2331
+294,255,Medication,25 March 2025,Success,3665
+295,732,Surgery,26 March 2025,Success,1302
+296,336,Diagnostic Test,26 January 2025,Partial Recovery,10563
+297,553,Surgery,31 May 2025,Success,9126
+298,502,Surgery,22 January 2025,No Change,6786
+299,255,Medication,15 July 2025,Success,11453
+300,514,Medication,14 August 2025,Success,7310
+301,707,Medication,27 May 2025,Partial Recovery,4484
+302,242,Surgery,23 January 2025,Success,6117
+303,149,Monitoring,07 July 2025,Success,9082
+304,710,Diagnostic Test,21 March 2025,Success,2359
+305,299,Medication,29 November 2025,Success,1481
+306,757,Medication,02 July 2025,Success,6218
+307,620,Medication,22 October 2025,Complications,3239
+308,453,Therapy,18 June 2025,Success,500
+309,393,Surgery,06 April 2025,No Change,1271
+310,212,Surgery,12 April 2025,Partial Recovery,4065
+311,668,Diagnostic Test,08 December 2025,Success,5144
+312,538,Medication,20 August 2025,Success,5233
+313,594,Medication,03 May 2025,Partial Recovery,11015
+314,595,Diagnostic Test,21 March 2025,No Change,4377
+315,131,Therapy,03 October 2025,Success,5834
+316,329,Medication,26 August 2025,Success,500
+317,612,Therapy,07 April 2025,Success,4906
+318,256,Surgery,03 March 2025,Success,6002
+319,479,Diagnostic Test,13 March 2025,Success,874
+320,561,Medication,27 November 2025,No Change,2198
+321,63,Diagnostic Test,11 September 2025,Success,6467
+322,311,Monitoring,03 June 2025,Partial Recovery,3361
+323,407,Monitoring,24 November 2025,Success,4692
+324,105,Monitoring,18 May 2025,Success,6622
+325,617,Medication,22 November 2025,Success,11110
+326,15,Medication,25 June 2025,Partial Recovery,4334
+327,687,Medication,17 October 2025,No Change,10307
+328,259,Therapy,09 December 2025,Partial Recovery,500
+329,723,Diagnostic Test,01 August 2025,Success,5445
+330,412,Medication,30 October 2025,Success,3997
+331,259,Monitoring,01 January 2026,Success,3402
+332,614,Diagnostic Test,18 November 2025,Success,6974
+333,260,Monitoring,25 November 2025,Partial Recovery,4356
+334,671,Diagnostic Test,22 March 2025,Success,500
+335,45,Medication,15 March 2025,Partial Recovery,500
+336,763,Surgery,02 December 2025,Success,7166
+337,331,Surgery,19 January 2025,Partial Recovery,500
+338,165,Medication,23 May 2025,Complications,7246
+339,193,Therapy,22 April 2025,Success,5374
+340,521,Diagnostic Test,02 November 2025,No Change,4489
+341,401,Diagnostic Test,14 July 2025,Success,4755
+342,374,Therapy,17 January 2025,Success,6544
+343,65,Surgery,07 July 2025,No Change,1467
+344,387,Surgery,22 June 2025,No Change,5126
+345,495,Surgery,27 December 2025,Success,1581
+346,794,Medication,09 June 2025,Success,5490
+347,693,Medication,03 June 2025,Partial Recovery,6939
+348,415,Surgery,29 March 2025,Partial Recovery,5497
+349,794,Medication,10 May 2025,Success,6825
+350,791,Surgery,18 January 2025,Partial Recovery,2899
+351,30,Therapy,26 April 2025,Success,4813
+352,266,Medication,12 November 2025,Success,4286
+353,328,Medication,04 December 2025,Success,4089
+354,492,Medication,15 February 2025,Success,2598
+355,217,Monitoring,30 June 2025,No Change,3704
+356,320,Medication,10 February 2025,Success,1661
+357,399,Medication,20 November 2025,Complications,500
+358,105,Diagnostic Test,08 December 2025,Success,2897
+359,696,Therapy,03 October 2025,Partial Recovery,6877
+360,330,Monitoring,27 November 2025,Partial Recovery,5702
+361,660,Medication,23 January 2025,Partial Recovery,1230
+362,617,Medication,09 February 2025,Success,3781
+363,47,Surgery,05 March 2025,Success,7077
+364,599,Therapy,23 November 2025,No Change,3654
+365,641,Medication,14 April 2025,Partial Recovery,746
+366,770,Surgery,04 March 2025,Success,11772
+367,314,Medication,07 November 2025,Partial Recovery,4499
+368,147,Medication,21 December 2025,Success,1509
+369,462,Surgery,27 January 2025,Success,5513
+370,584,Therapy,30 September 2025,No Change,4743
+371,486,Therapy,03 December 2025,Success,500
+372,652,Surgery,24 September 2025,Partial Recovery,5280
+373,410,Medication,09 October 2025,Success,7951
+374,27,Diagnostic Test,07 March 2025,Success,4301
+375,29,Medication,08 July 2025,Success,500
+376,271,Medication,07 June 2025,Success,6025
+377,686,Medication,12 December 2025,Partial Recovery,6808
+378,501,Therapy,04 December 2025,Success,3240
+379,253,Monitoring,23 February 2025,Success,3262
+380,385,Therapy,22 December 2025,Success,11773
+381,60,Surgery,29 January 2025,Success,3025
+382,107,Medication,27 June 2025,Partial Recovery,1634
+383,220,Diagnostic Test,23 October 2025,Success,5075
+384,441,Surgery,26 July 2025,Success,6724
+385,771,Monitoring,11 October 2025,No Change,6597
+386,658,Monitoring,20 April 2025,Partial Recovery,500
+387,564,Surgery,15 June 2025,Partial Recovery,3017
+388,572,Monitoring,11 June 2025,Success,8458
+389,546,Medication,13 April 2025,Success,5980
+390,96,Diagnostic Test,21 April 2025,No Change,1292
+391,89,Medication,11 April 2025,Partial Recovery,8727
+392,231,Medication,01 February 2025,Success,7894
+393,275,Therapy,09 June 2025,Partial Recovery,4110
+394,246,Diagnostic Test,06 November 2025,Success,7638
+395,111,Surgery,28 December 2025,Success,10999
+396,234,Therapy,13 June 2025,Partial Recovery,1836
+397,278,Surgery,03 March 2025,Partial Recovery,6666
+398,477,Medication,19 July 2025,Success,10957
+399,417,Medication,28 April 2025,No Change,6959
+400,678,Medication,30 September 2025,Success,2736
+401,128,Medication,24 December 2025,Success,5716
+402,237,Surgery,26 June 2025,No Change,9109
+403,619,Surgery,26 April 2025,Partial Recovery,1952
+404,128,Surgery,10 May 2025,Success,4909
+405,707,Medication,26 January 2025,Success,4269
+406,394,Monitoring,05 May 2025,Success,3105
+407,475,Surgery,26 September 2025,Partial Recovery,5724
+408,655,Monitoring,11 July 2025,Success,4697
+409,395,Diagnostic Test,07 August 2025,Partial Recovery,6930
+410,111,Therapy,28 March 2025,No Change,8422
+411,90,Therapy,24 July 2025,Partial Recovery,1181
+412,763,Diagnostic Test,23 November 2025,Success,5202
+413,280,Surgery,27 November 2025,Partial Recovery,4840
+414,333,Medication,22 February 2025,Success,5610
+415,224,Therapy,09 March 2025,Success,4953
+416,101,Therapy,02 June 2025,Success,2058
+417,132,Diagnostic Test,08 January 2026,Success,9364
+418,13,Surgery,23 June 2025,No Change,10642
+419,457,Therapy,18 August 2025,Success,6640
+420,441,Medication,12 December 2025,Success,6794
+421,98,Medication,01 February 2025,Complications,5393
+422,120,Medication,05 February 2025,Success,7907
+423,293,Therapy,06 April 2025,Partial Recovery,500
+424,711,Diagnostic Test,29 November 2025,Success,4988
+425,1,Medication,11 February 2025,Success,3282
+426,572,Diagnostic Test,15 August 2025,No Change,5437
+427,250,Medication,29 January 2025,Success,8277
+428,652,Surgery,15 July 2025,Success,5057
+429,149,Surgery,28 February 2025,Success,3918
+430,395,Surgery,18 February 2025,Success,790
+431,44,Medication,26 July 2025,Success,4672
+432,698,Medication,08 September 2025,Success,7016
+433,620,Diagnostic Test,27 October 2025,Success,2476
+434,44,Diagnostic Test,15 May 2025,Partial Recovery,500
+435,78,Surgery,05 May 2025,Success,11822
+436,226,Medication,21 April 2025,Success,6005
+437,162,Medication,02 May 2025,Success,4335
+438,793,Medication,17 January 2025,No Change,9172
+439,253,Surgery,20 September 2025,No Change,5424
+440,132,Surgery,13 July 2025,Partial Recovery,8996
+441,448,Monitoring,05 July 2025,No Change,8739
+442,474,Diagnostic Test,07 March 2025,Success,1176
+443,656,Surgery,16 June 2025,Success,6379
+444,778,Medication,20 May 2025,Success,10175
+445,109,Medication,16 December 2025,Success,2004
+446,706,Diagnostic Test,14 December 2025,Success,2040
+447,35,Medication,05 June 2025,Success,2548
+448,467,Surgery,28 January 2025,Complications,7671
+449,275,Diagnostic Test,30 December 2025,Partial Recovery,5853
+450,187,Medication,23 December 2025,Success,500
+451,243,Medication,09 May 2025,Partial Recovery,6022
+452,264,Medication,17 June 2025,Success,4244
+453,522,Medication,26 April 2025,Success,4663
+454,678,Medication,19 September 2025,Success,2488
+455,541,Medication,18 June 2025,Success,6044
+456,783,Medication,13 December 2025,Success,8151
+457,87,Surgery,30 October 2025,Partial Recovery,3074
+458,535,Diagnostic Test,17 July 2025,Success,500
+459,210,Surgery,21 June 2025,Success,4090
+460,46,Surgery,06 May 2025,Success,7268
+461,467,Therapy,13 September 2025,Success,3736
+462,540,Diagnostic Test,31 December 2025,No Change,507
+463,26,Diagnostic Test,15 October 2025,Success,7289
+464,266,Medication,17 December 2025,Complications,9246
+465,175,Medication,14 May 2025,Complications,5060
+466,516,Diagnostic Test,28 October 2025,Success,500
+467,311,Therapy,13 December 2025,Success,4046
+468,322,Medication,25 January 2025,No Change,5454
+469,579,Monitoring,20 October 2025,Complications,2570
+470,135,Surgery,17 October 2025,Success,6750
+471,55,Monitoring,24 June 2025,Partial Recovery,2277
+472,543,Diagnostic Test,27 November 2025,Partial Recovery,5076
+473,586,Therapy,21 April 2025,Success,4315
+474,531,Monitoring,09 October 2025,Success,6847
+475,156,Diagnostic Test,04 February 2025,Partial Recovery,4957
+476,668,Surgery,17 October 2025,Partial Recovery,4410
+477,147,Medication,15 March 2025,Success,2591
+478,485,Surgery,19 March 2025,Success,5104
+479,599,Medication,27 August 2025,Success,4219
+480,20,Diagnostic Test,03 April 2025,Success,2388
+481,269,Medication,11 November 2025,No Change,5478
+482,333,Medication,15 January 2025,Success,6091
+483,555,Therapy,01 February 2025,Success,3984
+484,401,Diagnostic Test,13 May 2025,Success,7794
+485,306,Surgery,01 February 2025,Success,5791
+486,28,Medication,03 October 2025,Success,1148
+487,467,Surgery,08 November 2025,Success,9012
+488,260,Therapy,20 April 2025,Success,7300
+489,534,Surgery,18 September 2025,Success,8005
+490,101,Therapy,16 August 2025,Success,6201
+491,551,Medication,07 June 2025,Success,500
+492,353,Surgery,28 April 2025,No Change,8277
+493,300,Monitoring,27 February 2025,Success,5182
+494,682,Surgery,27 February 2025,Success,6059
+495,296,Medication,26 April 2025,Partial Recovery,6621
+496,353,Surgery,29 June 2025,Success,10808
+497,130,Medication,27 January 2025,Partial Recovery,3361
+498,156,Medication,26 December 2025,Success,3438
+499,74,Medication,11 March 2025,Success,2446
+500,342,Surgery,28 September 2025,Partial Recovery,1790
+501,465,Medication,09 May 2025,No Change,1845
+502,90,Therapy,09 May 2025,Success,500
+503,579,Diagnostic Test,03 March 2025,Success,6279
+504,455,Medication,16 April 2025,Success,10963
+505,748,Therapy,30 May 2025,No Change,11154
+506,712,Medication,03 June 2025,No Change,2442
+507,332,Medication,04 March 2025,Success,4183
+508,739,Surgery,06 June 2025,Success,8700
+509,348,Medication,05 January 2026,Success,6297
+510,233,Medication,04 December 2025,Success,5403
+511,778,Medication,15 July 2025,Success,4229
+512,598,Therapy,27 April 2025,Success,8534
+513,102,Monitoring,23 December 2025,Success,1780
+514,481,Surgery,24 June 2025,No Change,6442
+515,214,Therapy,25 February 2025,Complications,6034
+516,108,Diagnostic Test,22 November 2025,Success,5130
+517,165,Therapy,08 November 2025,Success,7363
+518,603,Medication,01 November 2025,No Change,5101
+519,704,Medication,15 August 2025,Success,3396
+520,335,Surgery,15 January 2025,Partial Recovery,5277
+521,86,Medication,31 July 2025,Success,500
+522,734,Diagnostic Test,27 May 2025,Success,6838
+523,424,Surgery,27 January 2025,Success,7604
+524,613,Medication,24 May 2025,Success,3030
+525,738,Diagnostic Test,15 July 2025,Partial Recovery,2316
+526,364,Diagnostic Test,29 January 2025,Success,3140
+527,60,Medication,14 November 2025,Success,4810
+528,482,Therapy,23 October 2025,Success,5647
+529,250,Medication,14 April 2025,No Change,9846
+530,560,Surgery,17 June 2025,Success,9467
+531,117,Medication,03 April 2025,Success,7494
+532,739,Therapy,26 May 2025,Success,5363
+533,545,Monitoring,15 May 2025,Success,2219
+534,44,Surgery,27 March 2025,Success,10038
+535,509,Medication,19 October 2025,Partial Recovery,4257
+536,165,Medication,09 February 2025,Success,5844
+537,368,Medication,04 May 2025,Success,6882
+538,292,Surgery,30 June 2025,Partial Recovery,5184
+539,799,Medication,25 September 2025,Success,8453
+540,737,Diagnostic Test,04 July 2025,Success,6366
+541,286,Therapy,08 April 2025,Success,7965
+542,204,Medication,27 October 2025,Success,6342
+543,684,Medication,30 December 2025,Partial Recovery,4886
+544,524,Medication,08 September 2025,Success,5222
+545,121,Medication,07 June 2025,Success,4813
+546,756,Diagnostic Test,25 March 2025,Partial Recovery,1147
+547,664,Monitoring,30 November 2025,Success,1997
+548,664,Medication,30 June 2025,Success,7221
+549,188,Medication,04 September 2025,Success,1221
+550,13,Diagnostic Test,26 March 2025,Success,3787
+551,603,Medication,30 October 2025,Complications,1849
+552,200,Therapy,25 August 2025,Partial Recovery,3626
+553,586,Medication,18 August 2025,Success,4534
+554,768,Diagnostic Test,20 January 2025,Success,3781
+555,456,Medication,16 March 2025,Success,714
+556,448,Diagnostic Test,29 January 2025,Success,4443
+557,788,Diagnostic Test,15 April 2025,Success,2123
+558,71,Medication,23 August 2025,Success,3090
+559,590,Diagnostic Test,18 November 2025,No Change,7221
+560,796,Diagnostic Test,23 December 2025,Partial Recovery,7866
+561,130,Medication,28 July 2025,Success,1067
+562,43,Surgery,27 December 2025,Success,9705
+563,520,Surgery,03 July 2025,Success,3469
+564,13,Medication,03 February 2025,Partial Recovery,3196
+565,725,Medication,21 January 2025,Partial Recovery,2325
+566,623,Therapy,22 January 2025,No Change,5167
+567,535,Surgery,20 April 2025,Success,10944
+568,302,Diagnostic Test,03 March 2025,Partial Recovery,500
+569,766,Medication,02 June 2025,Success,500
+570,527,Medication,27 September 2025,Success,5805
+571,642,Medication,04 February 2025,Success,6708
+572,573,Medication,25 June 2025,Success,5158
+573,115,Medication,15 March 2025,Success,6787
+574,460,Medication,15 January 2025,Success,1606
+575,505,Surgery,24 July 2025,Success,2165
+576,308,Diagnostic Test,13 August 2025,Success,5371
+577,325,Diagnostic Test,05 May 2025,Success,10274
+578,579,Medication,28 April 2025,Success,6682
+579,761,Diagnostic Test,28 November 2025,Success,6821
+580,175,Diagnostic Test,21 June 2025,Success,1778
+581,514,Surgery,10 May 2025,Success,6267
+582,172,Monitoring,05 August 2025,Complications,1453
+583,502,Diagnostic Test,29 March 2025,Success,10303
+584,334,Medication,02 April 2025,Success,1964
+585,284,Surgery,16 May 2025,Success,2610
+586,475,Surgery,21 December 2025,No Change,580
+587,54,Surgery,17 November 2025,Partial Recovery,5257
+588,458,Diagnostic Test,16 October 2025,Success,5131
+589,579,Medication,11 April 2025,Success,9539
+590,420,Diagnostic Test,10 June 2025,Partial Recovery,7329
+591,614,Diagnostic Test,27 September 2025,Partial Recovery,2627
+592,632,Therapy,01 July 2025,Partial Recovery,7620
+593,703,Therapy,16 July 2025,No Change,1269
+594,409,Surgery,15 August 2025,No Change,2844
+595,304,Medication,20 October 2025,Success,5355
+596,559,Therapy,30 June 2025,Success,1604
+597,222,Surgery,03 December 2025,Success,8193
+598,533,Surgery,17 February 2025,Partial Recovery,11837
+599,158,Diagnostic Test,08 August 2025,Success,4116
+600,348,Therapy,01 September 2025,Complications,3044
+601,159,Medication,11 November 2025,Success,4611
+602,235,Therapy,30 May 2025,Success,3327
+603,662,Diagnostic Test,05 May 2025,No Change,5785
+604,405,Medication,14 May 2025,Success,1032
+605,257,Surgery,22 March 2025,Success,5955
+606,677,Monitoring,28 March 2025,Success,10735
+607,589,Medication,19 June 2025,Success,500
+608,597,Surgery,02 October 2025,Success,1494
+609,558,Medication,24 January 2025,Success,3664
+610,47,Diagnostic Test,17 July 2025,Success,6625
+611,213,Medication,22 April 2025,Complications,7671
+612,479,Medication,13 April 2025,Complications,7429
+613,487,Medication,19 August 2025,Success,500
+614,571,Monitoring,04 July 2025,Partial Recovery,2976
+615,566,Surgery,12 April 2025,Success,2299
+616,342,Therapy,20 December 2025,Success,4804
+617,524,Monitoring,10 February 2025,Success,5054
+618,704,Surgery,15 March 2025,Complications,892
+619,503,Monitoring,24 November 2025,No Change,3681
+620,6,Monitoring,06 October 2025,Success,6741
+621,144,Diagnostic Test,06 November 2025,Success,3115
+622,261,Medication,31 August 2025,Success,4399
+623,585,Therapy,31 December 2025,Success,10090
+624,686,Diagnostic Test,20 June 2025,Success,10970
+625,232,Monitoring,17 March 2025,Success,500
+626,270,Surgery,19 July 2025,Partial Recovery,5341
+627,447,Diagnostic Test,28 October 2025,Success,13751
+628,222,Medication,17 October 2025,No Change,6436
+629,52,Surgery,11 November 2025,Partial Recovery,5055
+630,116,Medication,19 December 2025,Success,8938
+631,538,Diagnostic Test,05 August 2025,Partial Recovery,5654
+632,565,Medication,24 February 2025,Partial Recovery,7127
+633,541,Medication,14 February 2025,Success,4369
+634,19,Monitoring,09 November 2025,Success,5610
+635,392,Medication,06 November 2025,No Change,6279
+636,791,Therapy,18 February 2025,Success,7596
+637,629,Medication,25 July 2025,Success,3704
+638,618,Medication,20 June 2025,Success,3623
+639,419,Therapy,02 September 2025,Partial Recovery,500
+640,309,Monitoring,09 May 2025,Partial Recovery,3838
+641,739,Medication,25 September 2025,No Change,7859
+642,186,Diagnostic Test,22 February 2025,Success,6389
+643,261,Surgery,09 September 2025,Success,2009
+644,528,Medication,25 February 2025,Success,500
+645,273,Medication,11 July 2025,Partial Recovery,4572
+646,160,Surgery,28 September 2025,Success,7771
+647,762,Medication,27 February 2025,Success,3563
+648,224,Medication,13 March 2025,Success,665
+649,256,Surgery,23 April 2025,Success,3231
+650,180,Medication,18 September 2025,No Change,5978
+651,20,Medication,31 October 2025,Partial Recovery,8727
+652,624,Therapy,02 August 2025,Complications,4229
+653,632,Monitoring,14 May 2025,Success,8164
+654,706,Therapy,29 December 2025,No Change,7832
+655,468,Medication,24 August 2025,Partial Recovery,1470
+656,623,Monitoring,26 July 2025,Success,8752
+657,210,Diagnostic Test,07 May 2025,Complications,5885
+658,513,Medication,20 January 2025,Success,1379
+659,58,Surgery,09 December 2025,No Change,10282
+660,93,Therapy,28 December 2025,No Change,4623
+661,221,Therapy,11 May 2025,Partial Recovery,500
+662,723,Diagnostic Test,23 September 2025,Success,2881
+663,232,Diagnostic Test,07 February 2025,Success,2142
+664,774,Therapy,20 February 2025,Success,2954
+665,364,Monitoring,29 June 2025,Success,3664
+666,615,Medication,07 March 2025,Partial Recovery,4227
+667,562,Surgery,29 August 2025,Partial Recovery,4114
+668,374,Diagnostic Test,03 April 2025,No Change,4707
+669,622,Medication,24 March 2025,Success,6762
+670,456,Diagnostic Test,30 July 2025,Partial Recovery,2760
+671,88,Monitoring,06 April 2025,No Change,8543
+672,20,Therapy,20 June 2025,Partial Recovery,1324
+673,14,Therapy,05 October 2025,Success,6845
+674,133,Medication,31 May 2025,Success,9929
+675,34,Medication,17 May 2025,Success,4467
+676,208,Medication,14 September 2025,Success,5580
+677,199,Therapy,01 July 2025,Success,2096
+678,592,Diagnostic Test,08 April 2025,Complications,3464
+679,583,Therapy,25 September 2025,Success,9703
+680,155,Surgery,05 January 2026,Success,7245
+681,590,Medication,22 December 2025,Success,6255
+682,78,Diagnostic Test,08 March 2025,Partial Recovery,500
+683,172,Medication,20 December 2025,No Change,2850
+684,289,Medication,09 September 2025,Partial Recovery,10216
+685,545,Diagnostic Test,25 August 2025,Success,6232
+686,788,Therapy,21 October 2025,Success,6606
+687,420,Medication,08 August 2025,No Change,5511
+688,7,Diagnostic Test,16 January 2025,Success,3161
+689,160,Surgery,15 December 2025,Success,5997
+690,240,Monitoring,24 July 2025,Success,500
+691,423,Surgery,11 November 2025,Success,500
+692,536,Surgery,14 March 2025,Partial Recovery,2794
+693,726,Diagnostic Test,29 November 2025,Success,5576
+694,70,Medication,02 December 2025,Success,500
+695,216,Diagnostic Test,14 September 2025,Success,5381
+696,104,Diagnostic Test,09 April 2025,Success,2016
+697,727,Diagnostic Test,14 April 2025,Success,2420
+698,54,Monitoring,04 September 2025,Partial Recovery,8898
+699,330,Medication,06 January 2026,Success,5111
+700,203,Diagnostic Test,22 March 2025,Success,2288
+701,288,Surgery,24 December 2025,Success,5560
+702,45,Medication,19 April 2025,Success,591
+703,198,Diagnostic Test,15 May 2025,Success,6146
+704,216,Medication,21 April 2025,Success,8321
+705,481,Therapy,28 August 2025,No Change,6985
+706,309,Medication,10 June 2025,Partial Recovery,11473
+707,435,Therapy,25 December 2025,Success,500
+708,332,Monitoring,15 February 2025,Success,5380
+709,696,Surgery,02 September 2025,Complications,969
+710,27,Therapy,22 January 2025,Partial Recovery,4480
+711,166,Diagnostic Test,09 September 2025,Success,5004
+712,318,Medication,13 May 2025,Partial Recovery,11839
+713,274,Surgery,16 September 2025,Partial Recovery,4820
+714,383,Therapy,26 June 2025,Partial Recovery,4764
+715,365,Medication,01 June 2025,Success,8015
+716,103,Surgery,09 June 2025,Success,4841
+717,503,Diagnostic Test,21 October 2025,Success,10493
+718,373,Medication,21 April 2025,No Change,7009
+719,616,Monitoring,27 August 2025,Success,7485
+720,245,Diagnostic Test,09 March 2025,Success,500
+721,169,Therapy,12 May 2025,No Change,10955
+722,628,Surgery,12 March 2025,No Change,3030
+723,653,Medication,14 April 2025,Complications,4970
+724,418,Surgery,28 March 2025,No Change,3041
+725,356,Monitoring,20 November 2025,Complications,1927
+726,478,Surgery,04 July 2025,Success,1393
+727,125,Medication,18 March 2025,Partial Recovery,5309
+728,537,Medication,26 December 2025,Partial Recovery,500
+729,706,Medication,22 May 2025,Success,4271
+730,612,Medication,23 April 2025,Success,8173
+731,402,Therapy,01 July 2025,Complications,6895
+732,517,Surgery,20 June 2025,Success,6297
+733,531,Surgery,23 April 2025,No Change,2313
+734,682,Medication,18 September 2025,Success,500
+735,786,Diagnostic Test,22 January 2025,Success,8125
+736,254,Therapy,04 December 2025,Success,3653
+737,121,Medication,22 October 2025,Success,4750
+738,32,Therapy,09 April 2025,Partial Recovery,4407
+739,661,Medication,06 April 2025,Success,7017
+740,778,Monitoring,31 July 2025,Success,10529
+741,37,Surgery,03 March 2025,Success,9387
+742,689,Therapy,23 December 2025,Success,500
+743,342,Diagnostic Test,19 June 2025,Success,4074
+744,13,Diagnostic Test,23 December 2025,Partial Recovery,959
+745,183,Surgery,21 June 2025,Success,7815
+746,657,Medication,13 June 2025,Success,5011
+747,265,Diagnostic Test,23 October 2025,Success,6818
+748,88,Surgery,14 November 2025,Success,3817
+749,462,Diagnostic Test,21 October 2025,Success,1881
+750,46,Diagnostic Test,09 March 2025,Success,2395
+751,392,Diagnostic Test,12 November 2025,No Change,500
+752,119,Surgery,22 December 2025,No Change,1209
+753,531,Diagnostic Test,15 June 2025,Partial Recovery,577
+754,447,Therapy,27 August 2025,Success,1892
+755,732,Diagnostic Test,11 February 2025,Success,1723
+756,745,Surgery,30 December 2025,Success,6182
+757,606,Surgery,01 November 2025,Partial Recovery,6064
+758,763,Medication,02 February 2025,Complications,6179
+759,762,Surgery,18 October 2025,Success,8524
+760,794,Therapy,22 September 2025,Success,4764
+761,744,Monitoring,26 November 2025,Partial Recovery,2657
+762,46,Medication,30 August 2025,Partial Recovery,11634
+763,508,Diagnostic Test,22 December 2025,Partial Recovery,7716
+764,558,Surgery,08 October 2025,Partial Recovery,5456
+765,526,Surgery,21 March 2025,Complications,5248
+766,597,Surgery,14 August 2025,Success,5868
+767,3,Medication,21 July 2025,No Change,4393
+768,28,Monitoring,19 November 2025,Complications,5384
+769,381,Surgery,21 December 2025,Partial Recovery,6498
+770,157,Therapy,11 September 2025,Success,2820
+771,511,Medication,19 February 2025,Success,500
+772,333,Monitoring,29 May 2025,Success,500
+773,687,Surgery,04 November 2025,Success,7663
+774,114,Medication,21 August 2025,No Change,500
+775,389,Surgery,04 July 2025,Success,6396
+776,487,Medication,04 August 2025,Success,1536
+777,250,Medication,03 October 2025,Partial Recovery,1585
+778,571,Diagnostic Test,04 August 2025,Success,2845
+779,715,Therapy,08 May 2025,Success,5582
+780,315,Therapy,30 January 2025,Success,1134
+781,239,Medication,18 May 2025,Success,3149
+782,234,Surgery,07 December 2025,Success,4922
+783,303,Medication,13 May 2025,No Change,1369
+784,607,Monitoring,13 February 2025,Success,9284
+785,653,Diagnostic Test,05 February 2025,No Change,500
+786,334,Diagnostic Test,09 April 2025,Success,4345
+787,113,Diagnostic Test,30 October 2025,Success,8817
+788,621,Surgery,02 March 2025,Success,1026
+789,362,Medication,07 June 2025,Success,4671
+790,97,Surgery,22 October 2025,Success,5398
+791,16,Medication,24 July 2025,Success,2579
+792,556,Surgery,17 March 2025,Success,4767
+793,376,Medication,13 July 2025,Success,6684
+794,742,Therapy,15 September 2025,Success,3598
+795,390,Diagnostic Test,24 April 2025,Success,7292
+796,620,Diagnostic Test,24 April 2025,Partial Recovery,6178
+797,217,Monitoring,04 January 2026,No Change,3251
+798,399,Surgery,18 March 2025,Success,8382
+799,260,Surgery,23 September 2025,Success,2777
+800,320,Therapy,31 January 2025,Complications,7567
+801,196,Medication,14 September 2025,Success,2830
+802,478,Medication,17 January 2025,Complications,4051
+803,418,Medication,12 February 2025,Success,4512
+804,475,Medication,12 February 2025,No Change,6015
+805,607,Medication,27 December 2025,Success,500
+806,568,Medication,20 August 2025,No Change,6374
+807,544,Medication,05 July 2025,Success,4692
+808,231,Therapy,03 April 2025,Partial Recovery,5857
+809,521,Medication,16 September 2025,Success,6507
+810,703,Medication,18 May 2025,Success,6181
+811,200,Surgery,05 February 2025,Partial Recovery,500
+812,673,Medication,30 December 2025,Success,1816
+813,599,Diagnostic Test,24 June 2025,No Change,5998
+814,21,Diagnostic Test,02 May 2025,Success,5599
+815,311,Therapy,20 November 2025,No Change,2631
+816,588,Medication,20 August 2025,Success,7212
+817,653,Therapy,13 April 2025,Complications,4230
+818,638,Therapy,24 December 2025,Complications,7657
+819,763,Medication,07 January 2026,Success,8630
+820,596,Medication,04 August 2025,No Change,5834
+821,434,Medication,10 December 2025,Partial Recovery,6666
+822,371,Therapy,19 October 2025,Success,3174
+823,560,Diagnostic Test,09 December 2025,Success,7676
+824,78,Surgery,18 May 2025,Success,5654
+825,542,Diagnostic Test,10 February 2025,Partial Recovery,4115
+826,285,Surgery,14 August 2025,Success,1343
+827,648,Surgery,16 July 2025,Success,3543
+828,140,Monitoring,05 December 2025,Success,1671
+829,553,Monitoring,17 December 2025,Success,7284
+830,282,Surgery,25 September 2025,No Change,8661
+831,562,Medication,04 October 2025,Complications,7748
+832,258,Surgery,24 May 2025,Success,12458
+833,360,Medication,27 May 2025,Success,3618
+834,440,Diagnostic Test,01 October 2025,Partial Recovery,6789
+835,270,Monitoring,15 November 2025,Success,1455
+836,134,Therapy,28 June 2025,Success,4408
+837,746,Medication,01 January 2026,Success,567
+838,640,Therapy,28 February 2025,Success,6704
+839,104,Medication,03 September 2025,Success,3933
+840,766,Monitoring,08 December 2025,Partial Recovery,500
+841,95,Diagnostic Test,08 October 2025,Success,2944
+842,729,Therapy,02 January 2026,No Change,10379
+843,573,Medication,26 April 2025,Success,6231
+844,480,Medication,02 February 2025,Success,7307
+845,780,Surgery,03 June 2025,No Change,5376
+846,241,Diagnostic Test,14 May 2025,Success,4455
+847,13,Medication,25 September 2025,Success,5046
+848,147,Medication,04 December 2025,Success,5736
+849,752,Medication,25 November 2025,Success,1710
+850,601,Diagnostic Test,17 March 2025,Partial Recovery,7289
+851,95,Surgery,06 March 2025,Success,8365
+852,293,Diagnostic Test,31 December 2025,Partial Recovery,4410
+853,25,Diagnostic Test,14 October 2025,Success,3430
+854,272,Monitoring,12 February 2025,Success,2774
+855,505,Medication,16 July 2025,Complications,10277
+856,166,Medication,01 September 2025,Partial Recovery,3643
+857,762,Medication,28 June 2025,Success,6959
+858,87,Medication,29 December 2025,Success,4431
+859,654,Surgery,09 March 2025,Success,4269
+860,646,Therapy,09 September 2025,Partial Recovery,2705
+861,791,Medication,19 May 2025,Partial Recovery,2089
+862,638,Diagnostic Test,12 February 2025,Partial Recovery,7219
+863,491,Surgery,09 December 2025,Success,2021
+864,141,Therapy,26 January 2025,Partial Recovery,6387
+865,103,Diagnostic Test,30 May 2025,Success,5271
+866,226,Diagnostic Test,09 August 2025,Success,7257
+867,575,Diagnostic Test,11 June 2025,Success,3170
+868,294,Diagnostic Test,09 October 2025,Complications,8240
+869,306,Monitoring,12 February 2025,Partial Recovery,4576
+870,254,Medication,26 January 2025,Success,12775
+871,180,Medication,02 September 2025,Success,500
+872,40,Surgery,26 June 2025,No Change,12286
+873,776,Surgery,28 November 2025,Success,4620
+874,701,Medication,26 May 2025,Success,5668
+875,520,Surgery,29 June 2025,Complications,3187
+876,616,Medication,22 December 2025,No Change,500
+877,737,Surgery,10 February 2025,Success,3414
+878,546,Surgery,11 May 2025,Success,3902
+879,236,Monitoring,08 April 2025,Success,5548
+880,463,Surgery,04 September 2025,Success,8363
+881,228,Diagnostic Test,26 October 2025,Complications,5572
+882,700,Surgery,08 November 2025,Success,5624
+883,483,Monitoring,27 March 2025,No Change,6153
+884,430,Diagnostic Test,07 July 2025,Success,500
+885,22,Therapy,15 July 2025,Success,500
+886,343,Therapy,27 July 2025,Success,509
+887,40,Surgery,10 July 2025,Partial Recovery,3880
+888,173,Monitoring,12 December 2025,Success,500
+889,439,Diagnostic Test,13 February 2025,Success,2930
+890,179,Diagnostic Test,07 May 2025,Success,895
+891,598,Therapy,06 February 2025,Success,6463
+892,133,Medication,18 December 2025,Success,6312
+893,351,Diagnostic Test,05 October 2025,Success,4098
+894,525,Medication,09 September 2025,Success,500
+895,540,Therapy,04 May 2025,Success,4288
+896,506,Surgery,07 March 2025,Success,5985
+897,84,Monitoring,09 February 2025,Success,7432
+898,464,Surgery,17 February 2025,Success,10260
+899,343,Medication,25 August 2025,Success,8355
+900,280,Therapy,07 April 2025,Success,5494
+901,263,Diagnostic Test,23 February 2025,Partial Recovery,4144
+902,166,Therapy,11 February 2025,Success,2771
+903,293,Medication,09 November 2025,Success,9066
+904,509,Surgery,04 May 2025,Success,5499
+905,580,Diagnostic Test,06 October 2025,No Change,6891
+906,226,Monitoring,19 March 2025,Partial Recovery,3229
+907,170,Diagnostic Test,09 July 2025,Partial Recovery,1277
+908,598,Medication,24 April 2025,Success,3798
+909,645,Monitoring,28 March 2025,Success,4091
+910,448,Medication,07 August 2025,Complications,5575
+911,690,Medication,07 July 2025,Partial Recovery,2787
+912,502,Medication,01 November 2025,Success,5074
+913,764,Medication,17 February 2025,Partial Recovery,8533
+914,527,Diagnostic Test,23 April 2025,Partial Recovery,500
+915,735,Medication,16 September 2025,Success,500
+916,379,Medication,27 January 2025,Success,8737
+917,201,Medication,01 January 2026,Success,609
+918,619,Surgery,19 April 2025,Success,3859
+919,250,Therapy,13 April 2025,Partial Recovery,6825
+920,409,Medication,05 May 2025,Success,4822
+921,601,Surgery,26 September 2025,Partial Recovery,4780
+922,125,Therapy,21 April 2025,Complications,5217
+923,113,Therapy,30 May 2025,Success,12556
+924,137,Diagnostic Test,15 February 2025,Success,10341
+925,759,Medication,13 April 2025,Partial Recovery,2918
+926,496,Diagnostic Test,28 July 2025,Partial Recovery,8152
+927,678,Monitoring,18 October 2025,Partial Recovery,6516
+928,150,Diagnostic Test,20 March 2025,Success,4941
+929,343,Therapy,28 August 2025,Success,2276
+930,580,Medication,12 June 2025,Success,6354
+931,733,Monitoring,02 March 2025,Complications,4081
+932,783,Medication,09 October 2025,Success,3861
+933,321,Medication,06 February 2025,No Change,2698
+934,532,Medication,04 September 2025,Success,7999
+935,289,Surgery,02 July 2025,Complications,2696
+936,489,Monitoring,03 August 2025,Partial Recovery,2715
+937,492,Therapy,12 February 2025,Success,7333
+938,612,Therapy,08 February 2025,Success,4567
+939,252,Therapy,30 December 2025,Success,4647
+940,77,Medication,24 September 2025,Success,8098
+941,647,Surgery,14 October 2025,Success,8941
+942,392,Therapy,03 November 2025,Success,500
+943,412,Diagnostic Test,08 November 2025,Success,4613
+944,173,Medication,16 August 2025,Partial Recovery,769
+945,201,Diagnostic Test,09 August 2025,Success,3839
+946,217,Medication,24 September 2025,Success,4979
+947,376,Medication,14 August 2025,No Change,3935
+948,720,Surgery,07 July 2025,Success,1924
+949,586,Medication,25 January 2025,Complications,1771
+950,11,Diagnostic Test,01 February 2025,Partial Recovery,7183
+951,799,Diagnostic Test,15 July 2025,Success,9604
+952,768,Medication,08 February 2025,Success,500
+953,12,Therapy,18 April 2025,Success,4017
+954,590,Diagnostic Test,13 August 2025,Success,7195
+955,435,Medication,07 May 2025,Success,4902
+956,684,Surgery,30 April 2025,Success,1658
+957,608,Monitoring,11 December 2025,Success,3566
+958,373,Therapy,22 January 2025,Success,5906
+959,273,Monitoring,18 April 2025,Success,4078
+960,691,Medication,27 December 2025,Success,4856
+961,576,Diagnostic Test,23 November 2025,Partial Recovery,4942
+962,509,Medication,11 August 2025,Success,3427
+963,132,Medication,20 November 2025,Success,7449
+964,784,Medication,08 June 2025,Success,3567
+965,319,Medication,30 August 2025,Success,1983
+966,621,Surgery,18 September 2025,Success,11688
+967,785,Medication,02 May 2025,Success,4766
+968,168,Surgery,02 February 2025,Success,500
+969,397,Diagnostic Test,17 November 2025,Success,8764
+970,180,Medication,01 September 2025,Success,8754
+971,58,Surgery,19 February 2025,Success,6371
+972,480,Surgery,30 June 2025,Success,6894
+973,591,Surgery,22 October 2025,Success,11479
+974,460,Therapy,13 November 2025,No Change,2111
+975,61,Surgery,04 October 2025,Partial Recovery,5399
+976,369,Diagnostic Test,25 June 2025,Success,10909
+977,121,Surgery,27 August 2025,Success,11544
+978,719,Medication,15 August 2025,Success,3901
+979,546,Diagnostic Test,21 July 2025,No Change,11030
+980,582,Diagnostic Test,07 November 2025,Success,7407
+981,17,Surgery,05 November 2025,Complications,9485
+982,496,Diagnostic Test,20 March 2025,Partial Recovery,7309
+983,497,Medication,12 June 2025,Partial Recovery,5916
+984,505,Diagnostic Test,22 September 2025,Success,11628
+985,532,Therapy,02 April 2025,Success,3414
+986,315,Therapy,21 July 2025,Success,10706
+987,69,Monitoring,28 December 2025,Success,11182
+988,727,Medication,10 February 2025,Success,9089
+989,161,Therapy,03 June 2025,No Change,4784
+990,614,Medication,01 February 2025,Success,5733
+991,718,Surgery,29 March 2025,Success,1175
+992,145,Surgery,21 July 2025,Success,3642
+993,569,Surgery,18 May 2025,Partial Recovery,6862
+994,595,Therapy,27 July 2025,Partial Recovery,719
+995,385,Therapy,06 July 2025,Success,4106
+996,269,Therapy,23 July 2025,Success,10834
+997,454,Surgery,18 November 2025,Success,4536
+998,699,Medication,24 February 2025,Success,8100
+999,518,Monitoring,04 July 2025,Success,6699
+1000,350,Medication,11 September 2025,No Change,4076
+1001,110,Therapy,26 September 2025,Success,4534
+1002,483,Diagnostic Test,31 July 2025,Success,5500
+1003,407,Diagnostic Test,20 March 2025,Success,500
+1004,650,Medication,29 November 2025,Partial Recovery,7840
+1005,51,Diagnostic Test,28 July 2025,Success,4644
+1006,403,Medication,22 February 2025,Success,7945
+1007,563,Diagnostic Test,08 February 2025,Partial Recovery,6164
+1008,476,Medication,02 August 2025,Success,4512
+1009,87,Medication,20 April 2025,Partial Recovery,5592
+1010,68,Surgery,21 January 2025,Success,5602
+1011,596,Diagnostic Test,22 December 2025,Partial Recovery,9428
+1012,42,Medication,20 July 2025,Success,5187
+1013,731,Medication,22 January 2025,Success,5864
+1014,57,Medication,07 December 2025,No Change,1214
+1015,738,Monitoring,23 April 2025,Success,4858
+1016,196,Diagnostic Test,13 June 2025,Success,9362
+1017,760,Therapy,13 February 2025,Success,6286
+1018,678,Therapy,29 July 2025,Success,1756
+1019,62,Medication,04 January 2026,Success,2078
+1020,263,Medication,06 December 2025,Complications,2775
+1021,112,Monitoring,04 April 2025,Complications,7998
+1022,765,Surgery,17 August 2025,Success,7629
+1023,711,Medication,23 January 2025,Success,500
+1024,178,Medication,30 October 2025,Success,4755
+1025,26,Medication,26 January 2025,Partial Recovery,5442
+1026,410,Medication,24 May 2025,Success,2113
+1027,758,Medication,06 September 2025,Success,3828
+1028,531,Surgery,06 April 2025,Success,8992
+1029,777,Medication,13 April 2025,Success,6226
+1030,317,Medication,17 January 2025,Success,3501
+1031,532,Surgery,25 December 2025,Success,4438
+1032,106,Surgery,12 May 2025,Partial Recovery,4316
+1033,749,Diagnostic Test,09 August 2025,Success,5845
+1034,464,Medication,17 November 2025,Success,710
+1035,246,Therapy,13 August 2025,Success,2990
+1036,81,Diagnostic Test,16 January 2025,Success,8106
+1037,662,Therapy,04 June 2025,Success,4782
+1038,396,Medication,18 September 2025,Success,2450
+1039,522,Medication,27 March 2025,Complications,2574
+1040,736,Medication,07 April 2025,Success,7162
+1041,264,Therapy,18 October 2025,Success,3446
+1042,661,Medication,05 June 2025,Success,6532
+1043,790,Diagnostic Test,28 May 2025,Complications,3119
+1044,274,Diagnostic Test,14 April 2025,Partial Recovery,1610
+1045,706,Surgery,25 December 2025,No Change,5733
+1046,172,Surgery,25 March 2025,Success,4707
+1047,265,Therapy,04 February 2025,Complications,7055
+1048,26,Medication,19 April 2025,Success,7652
+1049,469,Surgery,24 June 2025,Success,3926
+1050,476,Diagnostic Test,04 August 2025,No Change,6046
+1051,356,Medication,10 February 2025,No Change,3833
+1052,26,Monitoring,16 June 2025,Success,6900
+1053,34,Diagnostic Test,19 July 2025,Success,5700
+1054,264,Diagnostic Test,09 July 2025,Success,3128
+1055,138,Medication,19 April 2025,Success,2877
+1056,695,Medication,08 May 2025,Success,5806
+1057,754,Medication,04 December 2025,Complications,8486
+1058,566,Surgery,25 April 2025,Partial Recovery,7703
+1059,462,Medication,21 December 2025,Partial Recovery,2170
+1060,168,Medication,17 December 2025,Partial Recovery,2486
+1061,631,Surgery,27 September 2025,Success,2928
+1062,655,Medication,13 May 2025,Partial Recovery,3210
+1063,81,Diagnostic Test,19 June 2025,Success,500
+1064,757,Surgery,01 May 2025,Success,7370
+1065,407,Surgery,20 August 2025,Success,3632
+1066,574,Therapy,13 March 2025,Success,6386
+1067,46,Monitoring,19 August 2025,Partial Recovery,4052
+1068,599,Medication,13 April 2025,Complications,4931
+1069,611,Surgery,08 March 2025,Success,2944
+1070,53,Therapy,21 September 2025,Partial Recovery,4915
+1071,704,Monitoring,01 January 2026,Success,2386
+1072,476,Diagnostic Test,01 November 2025,Partial Recovery,4937
+1073,592,Therapy,03 July 2025,Success,9371
+1074,16,Medication,14 July 2025,Success,6561
+1075,360,Medication,07 November 2025,Success,5873
+1076,487,Surgery,02 November 2025,Success,1040
+1077,706,Therapy,17 June 2025,Success,6701
+1078,502,Diagnostic Test,03 January 2026,No Change,6993
+1079,141,Monitoring,12 September 2025,Success,5804
+1080,620,Medication,02 March 2025,No Change,5642
+1081,777,Surgery,09 December 2025,Partial Recovery,4579
+1082,447,Medication,03 January 2026,Success,6948
+1083,290,Diagnostic Test,16 June 2025,Success,9191
+1084,209,Diagnostic Test,05 August 2025,Partial Recovery,5991
+1085,475,Surgery,03 November 2025,Success,2084
+1086,413,Medication,13 February 2025,Partial Recovery,2314
+1087,677,Medication,21 January 2025,Success,7178
+1088,427,Medication,07 February 2025,Success,2109
+1089,371,Diagnostic Test,26 March 2025,Complications,5603
+1090,664,Medication,22 August 2025,Success,3963
+1091,290,Diagnostic Test,15 March 2025,Success,1783
+1092,432,Therapy,27 December 2025,Success,7496
+1093,268,Diagnostic Test,10 August 2025,Partial Recovery,7120
+1094,151,Medication,02 March 2025,Partial Recovery,933
+1095,719,Diagnostic Test,22 January 2025,Success,6444
+1096,255,Medication,22 September 2025,Success,6005
+1097,353,Medication,18 January 2025,Success,7512
+1098,377,Medication,13 August 2025,Success,5500
+1099,653,Medication,19 June 2025,Success,9280
+1100,358,Medication,08 March 2025,Complications,4620
+1101,608,Medication,19 December 2025,Success,4183
+1102,370,Monitoring,10 November 2025,Success,2075
+1103,227,Surgery,19 December 2025,No Change,2198
+1104,705,Diagnostic Test,09 May 2025,Success,1926
+1105,303,Monitoring,28 October 2025,Success,5655
+1106,389,Surgery,25 October 2025,Success,4192
+1107,377,Therapy,07 July 2025,Success,5992
+1108,118,Medication,23 October 2025,No Change,1372
+1109,5,Surgery,05 November 2025,Success,2432
+1110,444,Medication,01 February 2025,Success,2382
+1111,352,Monitoring,25 March 2025,Success,11507
+1112,755,Surgery,14 November 2025,No Change,4502
+1113,533,Therapy,12 February 2025,Success,4800
+1114,664,Medication,25 April 2025,Success,4767
+1115,640,Diagnostic Test,03 July 2025,Complications,9658
+1116,124,Surgery,03 January 2026,Success,500
+1117,658,Therapy,03 January 2026,Partial Recovery,4820
+1118,277,Therapy,02 July 2025,Success,500
+1119,394,Therapy,14 August 2025,Partial Recovery,500
+1120,664,Monitoring,26 April 2025,Success,2797
+1121,360,Diagnostic Test,05 June 2025,Success,6236
+1122,623,Surgery,11 October 2025,Partial Recovery,2606
+1123,469,Medication,03 March 2025,Success,6187
+1124,628,Medication,22 January 2025,Success,5319
+1125,700,Medication,30 December 2025,Success,4582
+1126,57,Medication,14 October 2025,Success,8794
+1127,251,Medication,04 May 2025,Complications,3211
+1128,150,Medication,17 February 2025,Success,6141
+1129,452,Monitoring,11 August 2025,Complications,500
+1130,162,Surgery,18 September 2025,Success,5296
+1131,120,Monitoring,10 December 2025,Success,4228
+1132,582,Medication,03 September 2025,Success,1453
+1133,351,Therapy,23 October 2025,Partial Recovery,6195
+1134,99,Diagnostic Test,15 November 2025,Partial Recovery,2783
+1135,167,Medication,10 March 2025,Success,10196
+1136,663,Medication,06 December 2025,No Change,500
+1137,514,Medication,26 September 2025,Success,5744
+1138,664,Medication,21 July 2025,Success,5128
+1139,401,Monitoring,18 December 2025,Complications,4157
+1140,365,Diagnostic Test,28 March 2025,No Change,3412
+1141,577,Surgery,26 September 2025,Complications,5205
+1142,326,Surgery,13 August 2025,Success,8186
+1143,581,Medication,12 April 2025,Success,500
+1144,633,Surgery,08 April 2025,Success,2582
+1145,621,Therapy,16 March 2025,Success,1849
+1146,247,Surgery,21 July 2025,Partial Recovery,1708
+1147,434,Medication,23 November 2025,Success,6028
+1148,93,Surgery,17 September 2025,Partial Recovery,6768
+1149,268,Medication,09 April 2025,Success,8195
+1150,615,Therapy,11 March 2025,Success,6815
+1151,624,Medication,16 June 2025,Partial Recovery,7058
+1152,321,Monitoring,12 May 2025,Success,764
+1153,62,Diagnostic Test,14 March 2025,Partial Recovery,9450
+1154,300,Medication,27 June 2025,Success,4370
+1155,403,Surgery,29 July 2025,Partial Recovery,8098
+1156,648,Diagnostic Test,17 July 2025,Success,871
+1157,567,Monitoring,31 January 2025,Success,4275
+1158,620,Diagnostic Test,13 April 2025,Partial Recovery,7829
+1159,303,Surgery,21 September 2025,No Change,5083
+1160,770,Monitoring,21 July 2025,Success,2738
+1161,253,Medication,22 January 2025,Success,8929
+1162,734,Diagnostic Test,21 June 2025,Success,1485
+1163,478,Monitoring,25 July 2025,Success,4938
+1164,369,Medication,29 September 2025,Partial Recovery,6920
+1165,679,Monitoring,15 October 2025,Partial Recovery,11287
+1166,160,Medication,20 August 2025,Success,3624
+1167,166,Monitoring,06 February 2025,Success,4170
+1168,205,Medication,10 June 2025,Partial Recovery,3665
+1169,267,Monitoring,19 November 2025,Success,5715
+1170,138,Surgery,19 September 2025,Success,6763
+1171,368,Diagnostic Test,13 April 2025,Success,8279
+1172,443,Medication,05 November 2025,Success,7268
+1173,760,Medication,30 January 2025,Success,3507
+1174,567,Medication,10 July 2025,Partial Recovery,7440
+1175,721,Diagnostic Test,11 February 2025,Success,5274
+1176,17,Surgery,30 December 2025,Success,7235
+1177,68,Therapy,20 May 2025,Partial Recovery,7407
+1178,133,Medication,17 March 2025,Success,9890
+1179,700,Monitoring,10 May 2025,Success,3936
+1180,430,Surgery,23 January 2025,Success,3363
+1181,308,Surgery,17 April 2025,Success,6341
+1182,650,Medication,13 September 2025,No Change,8547
+1183,174,Medication,18 August 2025,Partial Recovery,5174
+1184,412,Medication,22 June 2025,Success,8743
+1185,97,Medication,15 May 2025,Partial Recovery,7070
+1186,683,Diagnostic Test,09 February 2025,Success,4396
+1187,154,Diagnostic Test,08 May 2025,No Change,6690
+1188,695,Therapy,28 January 2025,Success,3695
+1189,242,Surgery,01 January 2026,Success,5715
+1190,304,Therapy,10 August 2025,Success,1780
+1191,285,Surgery,12 June 2025,Success,4795
+1192,27,Diagnostic Test,04 August 2025,Success,7999
+1193,402,Medication,12 November 2025,Success,7301
+1194,360,Medication,15 October 2025,Partial Recovery,6862
+1195,60,Medication,15 November 2025,Success,5862
+1196,202,Diagnostic Test,22 June 2025,Complications,5479
+1197,762,Surgery,09 September 2025,Success,1198
+1198,581,Therapy,23 September 2025,Partial Recovery,4381
+1199,370,Surgery,11 March 2025,No Change,5547
+1200,533,Diagnostic Test,30 August 2025,Partial Recovery,1626
